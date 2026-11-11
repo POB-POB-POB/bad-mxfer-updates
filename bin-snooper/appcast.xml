@@ -3,6 +3,13 @@
   <channel>
     <title>Bin Snooper</title>
     <item>
+      <title>Bin Snooper 1.7.10</title>
+      <sparkle:version>1.7.10</sparkle:version>
+      <description>The Dock icon shows how many possible crash locks there are, with a soft sound when a new one turns up (Settings: switch the sound off).</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.10.pobupd" length="203144" type="application/octet-stream" encrypted="1" sparkle:edSignature="lIXXG6Ed9a9go8pwYwy5n71lXOxt8T2vUb/g9xQFJNB5iCw0MLNC39oCyE+WnzYUFwoqmFA0IdURqMbkEl//Dg=="/>
+    </item>
+    <item>
       <title>Bin Snooper 1.7.9</title>
       <sparkle:version>1.7.9</sparkle:version>
       <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>

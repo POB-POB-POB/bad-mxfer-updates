@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.19</title>
+      <sparkle:version>2.9.19</sparkle:version>
+      <description>A little flourish when an overcut finishes (the wallet closes with a stitched tick), a stitched progress bar, and a tally: each result says how many tap clips were swapped and roughly how much time that saved, with a running total in the ⚙ panel.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.19.pobupd" length="271519" type="application/octet-stream" encrypted="1" sparkle:edSignature="zbnRdd0HE4HHc6sZW0awdoPT9GC8eXHGL6/BmyzoMKLh7PCYJIxbWCoCdmCrqeYShmCtSJpF8KWJlUM+CXAZBA=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.18</title>
       <sparkle:version>2.9.18</sparkle:version>
       <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>
@@ -64,13 +71,6 @@
       <description>Tick boxes to choose which cuts in the bin to overcut. Opening animation: the name sits to the right.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.10.pobupd" length="261456" type="application/octet-stream" encrypted="1" sparkle:edSignature="H25aAEIdUk2V3xePYD4gDstjCLN9QDcGqJ0Q/AKOm6gGS5uEfAWdYx3L4NKWfz0Mgu0UYhyW/8I0fubrU3NpAw=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.9</title>
-      <sparkle:version>2.9.9</sparkle:version>
-      <description>The clips used are hidden in the new bin again. Trying a fix so Match Frame works with only the new bin open.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.9.pobupd" length="260619" type="application/octet-stream" encrypted="1" sparkle:edSignature="/DyAreE0Ey2lUvLLfJxkAcI1fmaQ+aHhtM7nDWxTBsjzNSk6eznMe6+jSaXoT1WcdNTE36JU3AMkGmxnuYqxAg=="/>
     </item>
   </channel>
 </rss>

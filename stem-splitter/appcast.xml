@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.0.15</title>
+      <sparkle:version>2.0.15</sparkle:version>
+      <description>A little flourish when a split or export finishes (the wallet closes with a stitched tick), stitched progress bars, and a running tally in the ⚙ panel: timelines split, files exported, roughly how much time it&#x27;s saved.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.15.pobupd" length="371975" type="application/octet-stream" encrypted="1" sparkle:edSignature="TmBZPbQjFbKtsVFwsFSYy0j//QRLLdKLiow0GAsC69QZe41vp/Z4GTmzkLyx0UxyQnvLvorli3SKRc47qIBQDg=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.0.14</title>
       <sparkle:version>2.0.14</sparkle:version>
       <description>Media Composer&#x27;s &#x27;mixed audio sample rates&#x27; warning during an export is now clicked through (Continue) by itself, every time it comes up.</description>
@@ -64,13 +71,6 @@
       <description>New: a &#x27;Check my setup&#x27; button (in the ⚙ panel): Media Composer version, language, and a button that asks macOS for the permissions the export needs, before you start. Stem Splitter remembers which Media Composer versions an export has worked with, and warns if yours is new to it or your Mac isn&#x27;t in English. After each update you&#x27;ll see a short note like this one.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.6.pobupd" length="365896" type="application/octet-stream" encrypted="1" sparkle:edSignature="az8zYQsPQrEGxIi8mL2+mLVmSCPEI7DirGheLAHxO8ExwdM0ZGhL/M6Rfr3OblCLt0dDjpx3HDVoAsaAgVBwCA=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.5</title>
-      <sparkle:version>2.0.5</sparkle:version>
-      <description>Updates can now bring newer helper tools (Python, ffmpeg). Logs go to apps@drpob.com.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.5.pobupd" length="361540" type="application/octet-stream" encrypted="1" sparkle:edSignature="R2bgEs1mBulqvUlTs2HDI53vxGG4Wcv2IpMEHvsajic12Mv0ft+fzd72MVEinptZsQu9mmaPCqZIY6u+KtgpAg=="/>
     </item>
   </channel>
 </rss>
