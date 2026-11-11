@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.17</title>
+      <sparkle:version>0.3.17</sparkle:version>
+      <description>Lists of links download as they&#x27;re read: each link&#x27;s track starts downloading as soon as it&#x27;s found, while the next links are still being looked up (for lists you&#x27;ve chosen, like a CSV, when no size question is needed).</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.17.bmxupd" length="798859" type="application/octet-stream" sparkle:edSignature="k0VQ1CsM4uKffsSQ1ZtBPHDQsWibrD80XW+BqZR7l+i4Tm3jQYuTBN5TWxPpbSi+GsNMnUONUCx9fkLIBBhJAg=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.16</title>
       <sparkle:version>0.3.16</sparkle:version>
       <description>Faster lists of links: all the links are read at once instead of one after another (Spotify links in one go, others four at a time), and three tracks download at once instead of two.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.7</sparkle:version>
       <description>A failed import now says why, with a Send logs button, and when it&#x27;s YouTube or Spotify that changed, an &#x27;Update the downloader&#x27; button. If another Mac with the same computer name makes media folders in the same place, Bad MxFer warns you (their folder numbers could collide in Avid).</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.7.bmxupd" length="791411" type="application/octet-stream" sparkle:edSignature="Y0WGosvEu3jj8B0TmFVn50VAwB9rwHl3HxXBcajUPq8ZvhKVJ+GPPhPUeeyq6/kcud/RrUKxw+gbcgdWErI5Bw=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.6</title>
-      <sparkle:version>0.3.6</sparkle:version>
-      <description>Waiting for Avid: a 30 second bar now runs from the moment Avid has read the media, and the bin goes in as soon as it ends (it used to wait up to another 30 s, and restarted if Avid touched its files, so it could look stuck). Bins waiting for Avid also go in while another import is running. Do it now is there at every step; before Avid has read the media it puts the bin in with its clips offline until Avid catches up.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.6.bmxupd" length="790165" type="application/octet-stream" sparkle:edSignature="h8UD7w5+q6ROLivaySI3m31g0UZa+tXYXfLPCoMYPEvNBOT84Fql5BGee0eBSjPllfhKm00oFM2RWxreMOSjCg=="/>
     </item>
   </channel>
 </rss>
