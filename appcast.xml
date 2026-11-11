@@ -3,10 +3,10 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
-      <title>Bad MxFer 0.3.10</title>
-      <sparkle:version>0.3.10</sparkle:version>
-      <description>The opening wallet&#x27;s name is right-aligned like the other POB apps, and sized to the window.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.10.bmxupd" length="794040" type="application/octet-stream" sparkle:edSignature="UphqoIty0LTQGob45U2WT9YmoZhwvC6i4r7lqP5iEMPE9EhijZ+b7I6TcayF4wWNwdKm14fx8/on87/NAgsfAA=="/>
+      <title>Bad MxFer 0.3.11</title>
+      <sparkle:version>0.3.11</sparkle:version>
+      <description>The MXF media box now has its own arrow into the queue, and the arrows to and from Bins disappear when bins are switched off.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.11.bmxupd" length="794137" type="application/octet-stream" sparkle:edSignature="icUa6WJ+cExTHtXRSvqcID4Nm66FBHi9QVfnex99ecbEIWYzH43L3lJpERynwR59eDVo0WBEWdwUmXAx3tpVDw=="/>
     </item>
     <item>
       <title>Bad MxFer 0.3.9</title>
