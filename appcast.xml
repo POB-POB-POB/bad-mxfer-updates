@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Bad MxFer</title>
+    <item>
+      <title>Bad MxFer 0.3.2</title>
+      <sparkle:version>0.3.2</sparkle:version>
+      <description>All-apps licences (one file opens every POB app). Queue is on the right, as in 2.3.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.2.bmxupd" length="786142" type="application/octet-stream" sparkle:edSignature="lGd9Yt32A3HUQQaZ5qlUkhFec2sx9JfyGy8TWIHCASVdLSca3XK94r6YE/mz7d9dI167pTorlvkQvTOGX7kZCA=="/>
+    </item>
+  </channel>
+</rss>

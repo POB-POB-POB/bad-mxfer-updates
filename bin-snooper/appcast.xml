@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Bin Snooper</title>
+    <item>
+      <title>Bin Snooper 1.7.2</title>
+      <sparkle:version>1.7.2</sparkle:version>
+      <description>All-apps licences (one file opens every POB app). Send Logs works with Gmail and other email apps.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.2.pobupd" length="194644" type="application/octet-stream" encrypted="1" sparkle:edSignature="Q7bGOV72xmj9lCSEluaY0Gl419iJy7Z+aHKiV4Zuanek1bX92SB6r7upFR7VFO6XvSO/ZCbXV8YskP5AWI33BQ=="/>
+    </item>
+  </channel>
+</rss>

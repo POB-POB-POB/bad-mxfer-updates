@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Stem Splitter</title>
+    <item>
+      <title>Stem Splitter 2.0.2</title>
+      <sparkle:version>2.0.2</sparkle:version>
+      <description>Export asks macOS for its permissions before it takes the mouse, and has a Stop button over Media Composer. All-apps licences. Send Logs works with Gmail.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.2.pobupd" length="358781" type="application/octet-stream" encrypted="1" sparkle:edSignature="K2OJ0xQZYTTmHCBX7xFw8pFw7wOILU54rkuULH54hlD/NcWLjNh1xZd00r09yDLiPYQVdrw3sNIASG5a0X6pBQ=="/>
+    </item>
+  </channel>
+</rss>
