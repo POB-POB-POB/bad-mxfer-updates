@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.0.4</title>
+      <sparkle:version>2.0.4</sparkle:version>
+      <description>Fixes a crash on sequences with an AudioSuite effect. Keeps the screen awake while Media Composer exports.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.4.pobupd" length="359070" type="application/octet-stream" encrypted="1" sparkle:edSignature="nZJb+OSwowIOj607uU/pmvyo6R9To7CzGgUDwuYaueRu0bBLNUq6SvoOq3lDVI8aePeYWbwRcCtaiNovZYQjDg=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.0.3</title>
       <sparkle:version>2.0.3</sparkle:version>
       <description>Opening animation: the name sits to the right.</description>
