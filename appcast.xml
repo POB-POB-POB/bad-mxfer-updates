@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.12</title>
+      <sparkle:version>0.3.12</sparkle:version>
+      <description>If the health check can&#x27;t run, it now says why (and the reason goes in the logs).</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.12.bmxupd" length="794253" type="application/octet-stream" sparkle:edSignature="pGbZRlrNV8y3VND2EiJlmSj0cTkOV8oWoJbojhNXLPEWTqGkefncpcw7Bh6K2WtK0V9oaaHtfUCLtrCAyJUbCg=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.11</title>
       <sparkle:version>0.3.11</sparkle:version>
       <description>The MXF media box now has its own arrow into the queue, and the arrows to and from Bins disappear when bins are switched off.</description>
