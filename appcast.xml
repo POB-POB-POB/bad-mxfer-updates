@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.8</title>
+      <sparkle:version>0.3.8</sparkle:version>
+      <description>Fix: bins from 0.3.0 to 0.3.7 wouldn&#x27;t open in Media Composer (STRM_UNICODE_STRING_NOT_FOUND). New bins are right, and bins it already made are fixed by themselves within a minute of updating (the old copy is kept beside each as .avb.broken). Reopen the bin in Avid after that.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.8.bmxupd" length="793722" type="application/octet-stream" sparkle:edSignature="zkDIIPOMfmFYBKy0cuUJE/XFect6YaIwM9SqVo/n6sq5BuXK+e44NYJyKU5O6S0KroyDSdw/S7AJVk6MncXEAA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.7</title>
       <sparkle:version>0.3.7</sparkle:version>
       <description>A failed import now says why, with a Send logs button, and when it&#x27;s YouTube or Spotify that changed, an &#x27;Update the downloader&#x27; button. If another Mac with the same computer name makes media folders in the same place, Bad MxFer warns you (their folder numbers could collide in Avid).</description>
