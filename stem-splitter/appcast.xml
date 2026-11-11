@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.0.19</title>
+      <sparkle:version>2.0.19</sparkle:version>
+      <description>The spoiler name you type is now really written into the burn-in (it was keeping the name already there), and the burn-in shows the right timeline name.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.19.pobupd" length="375952" type="application/octet-stream" encrypted="1" sparkle:edSignature="hrin72XgmS3HHyvf+0OZz9p90lpFSdx6YXDaSlspOhJI+9hpZONWFQTKAEiIIA9SWWMqy3cAZCZ4D+N7jn1MCA=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.0.18</title>
       <sparkle:version>2.0.18</sparkle:version>
       <description>On a new Mac, export settings Media Composer hasn&#x27;t got there are swapped for the nearest ones it has (or taken out), and you&#x27;re told which. The old ones are kept in case it guessed wrong.</description>
@@ -64,13 +71,6 @@
       <description>Split works with one press: a &#x27;Who is it for?&#x27; check pops up with each timeline&#x27;s Spoiler line, and its Split button goes ahead. The export now pastes the bin&#x27;s location into Media Composer&#x27;s Open a Bin window instead of typing it, and presses Open again if Media Composer missed it (it stopped with &#x27;Open a Bin window didn&#x27;t close&#x27;).</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.10.pobupd" length="368803" type="application/octet-stream" encrypted="1" sparkle:edSignature="/HEfH1+nD/lVXRogBYxoabf0/v67eQXwAwIPhT6Rv1f/b0QclSqSl5++9wsjxzyzPhQpN3xr141CasFXUlhLBQ=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.9</title>
-      <sparkle:version>2.0.9</sparkle:version>
-      <description>The opening wallet&#x27;s name is bigger and sized to the window.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.9.pobupd" length="367988" type="application/octet-stream" encrypted="1" sparkle:edSignature="GomNv7vZ0nWLUuVT7c4mtareAZ4qStOfScFIkELBvMGwtsCmkYqjL5HuNTUO484A/np4bWlS6eFl7chFtvjiBA=="/>
     </item>
   </channel>
 </rss>
