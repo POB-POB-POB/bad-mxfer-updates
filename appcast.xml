@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.15</title>
+      <sparkle:version>0.3.15</sparkle:version>
+      <description>New: drop a CSV (or a .txt) of YouTube or Spotify links on the window, or put it in the watch folder: it becomes one playlist bin named after the file, tracks in the list&#x27;s order. Audio or video follows the music/video switch in IN.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.15.bmxupd" length="797536" type="application/octet-stream" sparkle:edSignature="e0FnJrBYWY6jjWpyXU5d9Dh8kxmbR8jsKxSlkS3xLyyPZKm2CSL50KD4k2ZwfozApUtnQQ36Jus9nxXnLiQoCQ=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.14</title>
       <sparkle:version>0.3.14</sparkle:version>
       <description>Fix: Bad MxFer kept in the Dock now opens when you click it (the Dock was keeping the window&#x27;s own little app, which did nothing when opened on its own). After updating, quit Bad MxFer&#x27;s window once and open it again.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.5</sparkle:version>
       <description>New: after each update you&#x27;ll see a short note like this one saying what changed. If a drive comes back as FAL_PRJ-1 after a dropped connection, Bad MxFer now says so plainly and how to fix it.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.5.bmxupd" length="786972" type="application/octet-stream" sparkle:edSignature="VnWBMZ/FBeyyPyXwOdiD0LdQ7PbGxVxpTRrcfCiROj+Lax4edYaH+AeAgfhOYVmYfb1IOUAkA3ltspMbcIJtBg=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.4</title>
-      <sparkle:version>0.3.4</sparkle:version>
-      <description>Updates can now bring newer helper tools (ffmpeg, MXF writer) in parts.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.4.bmxupd" length="786264" type="application/octet-stream" sparkle:edSignature="0YoDrJfEFlgnck/3mKHNwRh+QT+L8hFKxOJwpDP9vVc7c44/Q0ESk7jNfBrDNaO0hc9G1lTLhzM3K856aaQ+CA=="/>
     </item>
   </channel>
 </rss>
