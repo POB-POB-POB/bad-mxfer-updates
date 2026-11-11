@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.10</title>
+      <sparkle:version>0.3.10</sparkle:version>
+      <description>The opening wallet&#x27;s name is right-aligned like the other POB apps, and sized to the window.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.10.bmxupd" length="794040" type="application/octet-stream" sparkle:edSignature="UphqoIty0LTQGob45U2WT9YmoZhwvC6i4r7lqP5iEMPE9EhijZ+b7I6TcayF4wWNwdKm14fx8/on87/NAgsfAA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.9</title>
       <sparkle:version>0.3.9</sparkle:version>
       <description>Clicking Bad MxFer in the Dock opens the window again, even after it was force-quit or closed by an update. The app also keeps a short note of each time it&#x27;s opened (in its logs), to help if it ever doesn&#x27;t.</description>
