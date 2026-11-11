@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.19</title>
+      <sparkle:version>0.3.19</sparkle:version>
+      <description>Send logs now sends the zip to Pete itself, attached, with a note of what happened - no email app needed. If it can&#x27;t, the email opens and Finder comes to the front with the zip ready to drag on.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.19.bmxupd" length="801542" type="application/octet-stream" sparkle:edSignature="nXHASVRSAdZy+N94yFHn63RBMu0u9JlgdJ6cIT//VMNLuS9CST+tcgNL9+vGN9qmA86/orIigmbGW1+Ei33YCg=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.18</title>
       <sparkle:version>0.3.18</sparkle:version>
       <description>Settings now fill the window, with tabs down the side (Health check, Avid, Imports, Licence &amp; updates, About &amp; logs) so you see one group at a time. Scroll bars are clearer, including the queue&#x27;s.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.9</sparkle:version>
       <description>Clicking Bad MxFer in the Dock opens the window again, even after it was force-quit or closed by an update. The app also keeps a short note of each time it&#x27;s opened (in its logs), to help if it ever doesn&#x27;t.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.9.bmxupd" length="794032" type="application/octet-stream" sparkle:edSignature="j6ev4S2VBiLz3BDPzEA5BHEGISvibm+cVsWi1z36064IYbj0XTTbBzQjM8tvsSd+Oqk+zoGTwITdF35LLWHuCg=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.8</title>
-      <sparkle:version>0.3.8</sparkle:version>
-      <description>Fix: bins from 0.3.0 to 0.3.7 wouldn&#x27;t open in Media Composer (STRM_UNICODE_STRING_NOT_FOUND). New bins are right, and bins it already made are fixed by themselves within a minute of updating (the old copy is kept beside each as .avb.broken). Reopen the bin in Avid after that.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.8.bmxupd" length="793722" type="application/octet-stream" sparkle:edSignature="zkDIIPOMfmFYBKy0cuUJE/XFect6YaIwM9SqVo/n6sq5BuXK+e44NYJyKU5O6S0KroyDSdw/S7AJVk6MncXEAA=="/>
     </item>
   </channel>
 </rss>
