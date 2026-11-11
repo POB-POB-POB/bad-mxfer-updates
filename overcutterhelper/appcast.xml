@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.25</title>
+      <sparkle:version>2.9.25</sparkle:version>
+      <description>Closing the window during an overcut now puts it in the menu bar (OCH and the percentage): click it to see the progress or stop it. It finishes in the background and tells you when the bin is ready.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.25.pobupd" length="277658" type="application/octet-stream" encrypted="1" sparkle:edSignature="FInrs+U+2hBwbUwmvvMBJQGD2wtghxzJQNadWhypbh8MIjWrB1tCOVwkjCqf5CZyBeW9TS2uGz3p/KurYZWADg=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.24</title>
       <sparkle:version>2.9.24</sparkle:version>
       <description>Send logs now sends the zip to Pete itself, attached, with a note of what happened - no email app needed. If it can&#x27;t, the email opens and Finder comes to the front with the zip ready to drag on. Closing the window during an overcut no longer stops it: it finishes in the background and tells you. Crashes are now recorded in the logs.</description>
@@ -64,13 +71,6 @@
       <description>The opening wallet shows the name on two lines, a bit bigger.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.16.pobupd" length="269078" type="application/octet-stream" encrypted="1" sparkle:edSignature="hYhnYzHCSFxBG5pX9MgIY59kSc7gIb08eAFYMtd622+pi3G88MF4IefB7R3QTof7fOJZhxJly1/jQ5Gz1A78AQ=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.15</title>
-      <sparkle:version>2.9.15</sparkle:version>
-      <description>New: your last few cut bins and scene bins appear as one-click buttons on the cards. After an overcut or two, it says roughly how long this one will take, from how long they take on this Mac. Notifications and a Dock progress badge come with the 2.9.15 zip from the drive.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.15.pobupd" length="268793" type="application/octet-stream" encrypted="1" sparkle:edSignature="zKpmBr45tMzS0oku1RXkV48kGCqZgItYa78bqTTwtE0TLaNuRG9+AVMmx39xvQGuaVzlh7gMFs7EPgaRGDc9Ag=="/>
     </item>
   </channel>
 </rss>
