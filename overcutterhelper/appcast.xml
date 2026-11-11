@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.18</title>
+      <sparkle:version>2.9.18</sparkle:version>
+      <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.18.pobupd" length="270007" type="application/octet-stream" encrypted="1" sparkle:edSignature="BNnQ3Q0IsaSgICDMvH83j7e64bIbJ8GWvp/5t5ysVCWGOm9umGjmVZ+Ta00xB+FQJ1uKoQ9Y1jBnJwhrQut5BA=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.17</title>
       <sparkle:version>2.9.17</sparkle:version>
       <description>The opening wallet shows OVER / CUTTER / HELPER on three lines, bigger.</description>
@@ -64,13 +71,6 @@
       <description>The clips used are hidden in the new bin again. Trying a fix so Match Frame works with only the new bin open.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.9.pobupd" length="260619" type="application/octet-stream" encrypted="1" sparkle:edSignature="/DyAreE0Ey2lUvLLfJxkAcI1fmaQ+aHhtM7nDWxTBsjzNSk6eznMe6+jSaXoT1WcdNTE36JU3AMkGmxnuYqxAg=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.8</title>
-      <sparkle:version>2.9.8</sparkle:version>
-      <description>Markers on the new timelines for everything worth a look (left as tap, matched by picture, unusual slip, kept sync offset). The clips used are now shown in the new bin so Match Frame can find them.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.8.pobupd" length="260752" type="application/octet-stream" encrypted="1" sparkle:edSignature="jc+eOEvD7Ybi4N62hFwYWZU8Q3TOVW3kYlX9OAbOU4yLfEVLKJCTSDmgsbcNSwEuQgi+tzIjJHyHIrpgGR8HAw=="/>
     </item>
   </channel>
 </rss>

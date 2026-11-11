@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.0.13</title>
+      <sparkle:version>2.0.13</sparkle:version>
+      <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.13.pobupd" length="370209" type="application/octet-stream" encrypted="1" sparkle:edSignature="XvKVn+23VGedf25Ow7YPq9iUfqlf4hzxKSTHwvf2c8taiX1zEkTFUba/fymT/SNaBKkjO6Fwquu4UBDC5fkQBQ=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.0.12</title>
       <sparkle:version>2.0.12</sparkle:version>
       <description>Fix: the &#x27;Who is it for?&#x27; check showed &#x27;(none set)&#x27; when the name came from the cut&#x27;s own burn-in; it now shows the same name as the Spoiler line, and a split never blanks the name in the burn-in. Also: export bin names fit Avid&#x27;s 64-character limit, and Split works with one press.</description>
@@ -64,13 +71,6 @@
       <description>Fixes a crash on sequences with an AudioSuite effect. Keeps the screen awake while Media Composer exports.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.4.pobupd" length="359070" type="application/octet-stream" encrypted="1" sparkle:edSignature="nZJb+OSwowIOj607uU/pmvyo6R9To7CzGgUDwuYaueRu0bBLNUq6SvoOq3lDVI8aePeYWbwRcCtaiNovZYQjDg=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.3</title>
-      <sparkle:version>2.0.3</sparkle:version>
-      <description>Opening animation: the name sits to the right.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.3.pobupd" length="358794" type="application/octet-stream" encrypted="1" sparkle:edSignature="ylj0ujB/RgvNIzazeDHnB4oAvkNRqxNEL34FU+gmma9ysdC3xgS4ID1ZZ0WBr+TyePjR1dIEPB7UsH8xsJG5Aw=="/>
     </item>
   </channel>
 </rss>
