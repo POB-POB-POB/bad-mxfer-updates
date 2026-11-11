@@ -3,6 +3,13 @@
   <channel>
     <title>Bin Snooper</title>
     <item>
+      <title>Bin Snooper 1.7.6</title>
+      <sparkle:version>1.7.6</sparkle:version>
+      <description>When a project&#x27;s drive comes back under another name, the note says so plainly. Problems listed in Settings have a Send logs button next to them.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.6.pobupd" length="200659" type="application/octet-stream" encrypted="1" sparkle:edSignature="RqSbSIH56Mmpen4mEYjJFFapr8nUK9zpZVYHEAQmS+4K/5SCVndKvCQW+dg3OKFXR3XskwA49BYwpGY+6HLFBQ=="/>
+    </item>
+    <item>
       <title>Bin Snooper 1.7.5</title>
       <sparkle:version>1.7.5</sparkle:version>
       <description>New: a &#x27;Check my setup&#x27; button in Settings that ticks off the licence, macOS, internet, disk space and your watched projects, and says how to fix anything missing. It opens by itself the first time. After each update you&#x27;ll see a short note like this one. If a drive comes back as FAL_PRJ-1, Bin Snooper now says so plainly.</description>

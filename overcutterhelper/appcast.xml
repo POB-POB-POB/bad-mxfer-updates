@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.15</title>
+      <sparkle:version>2.9.15</sparkle:version>
+      <description>New: your last few cut bins and scene bins appear as one-click buttons on the cards. After an overcut or two, it says roughly how long this one will take, from how long they take on this Mac. Notifications and a Dock progress badge come with the 2.9.15 zip from the drive.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.15.pobupd" length="268793" type="application/octet-stream" encrypted="1" sparkle:edSignature="zKpmBr45tMzS0oku1RXkV48kGCqZgItYa78bqTTwtE0TLaNuRG9+AVMmx39xvQGuaVzlh7gMFs7EPgaRGDc9Ag=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.14</title>
       <sparkle:version>2.9.14</sparkle:version>
       <description>New: a &#x27;Check my setup&#x27; button (in the ⚙ panel) that checks ffmpeg, the bin reader and your saved folders. If a drive comes back as FAL_PRJ-1, the folder choosers still open in the right place and the check says why. After each update you&#x27;ll see a short note like this one.</description>
@@ -64,13 +71,6 @@
       <description>Adds a Stop button while an overcut is running.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.6.pobupd" length="259299" type="application/octet-stream" encrypted="1" sparkle:edSignature="pin32D2/R5X7a9+g8KC1keLh5m7AoVaiXSGTPR41nkZZrZvJK5BZ7coNXepVaV2IFo2zbRWJOUj+q4dXaSEeCQ=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.5</title>
-      <sparkle:version>2.9.5</sparkle:version>
-      <description>Fixes &quot;something went wrong&quot; when writing the new bin for a cut with an AudioSuite effect on it.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.5.pobupd" length="258944" type="application/octet-stream" encrypted="1" sparkle:edSignature="7LO4SCYwPdIexZV6mYBV+j5n1XuX3Acy09shYa1ELrhswTiIKJ7qWp9lcz2joF0lAQQgooXUYZlkeW70sOBgBQ=="/>
     </item>
   </channel>
 </rss>
