@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.6</title>
+      <sparkle:version>0.3.6</sparkle:version>
+      <description>Waiting for Avid: a 30 second bar now runs from the moment Avid has read the media, and the bin goes in as soon as it ends (it used to wait up to another 30 s, and restarted if Avid touched its files, so it could look stuck). Bins waiting for Avid also go in while another import is running. Do it now is there at every step; before Avid has read the media it puts the bin in with its clips offline until Avid catches up.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.6.bmxupd" length="790165" type="application/octet-stream" sparkle:edSignature="h8UD7w5+q6ROLivaySI3m31g0UZa+tXYXfLPCoMYPEvNBOT84Fql5BGee0eBSjPllfhKm00oFM2RWxreMOSjCg=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.5</title>
       <sparkle:version>0.3.5</sparkle:version>
       <description>New: after each update you&#x27;ll see a short note like this one saying what changed. If a drive comes back as FAL_PRJ-1 after a dropped connection, Bad MxFer now says so plainly and how to fix it.</description>
