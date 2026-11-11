@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.21</title>
+      <sparkle:version>2.9.21</sparkle:version>
+      <description>The timelines to overcut have their own wide list under the cards: bigger rows, wide enough for long timeline names, a box to find a timeline by name, Tick all / Untick all, and smooth scrolling.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.21.pobupd" length="272292" type="application/octet-stream" encrypted="1" sparkle:edSignature="LiGi5ZfDYsHKPhnnn4Pw5bSlTWJDHWUf7AHZf8Te+Yb+meiF9Ro47bqagd47Qm3gFzzmJNDFTTfx8m2ymGI+AA=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.20</title>
       <sparkle:version>2.9.20</sparkle:version>
       <description>The timelines to overcut now have their own wide list under the cards: bigger rows, two or three columns, a box to find a timeline by name, Tick all / Untick all, and it scrolls smoothly (it no longer jumps while you scroll).</description>
@@ -64,13 +71,6 @@
       <description>When an overcut finishes, the result card reminds you to open the scene bins too if clips show offline or Match Frame can&#x27;t find them.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.12.pobupd" length="262294" type="application/octet-stream" encrypted="1" sparkle:edSignature="CmSTuQyYot6CgiRKWVIEXhPOF2Boon4uLh7dStbHXndjspHEgXZ16QiQluc8USPh42lGI4YxMu6EpyR3JiTfCA=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.11</title>
-      <sparkle:version>2.9.11</sparkle:version>
-      <description>Keeps the Mac awake during an overcut. Clearer message when a cut fails, with Send logs. A sound when it finishes (Sound: on/off at the top).</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.11.pobupd" length="262101" type="application/octet-stream" encrypted="1" sparkle:edSignature="YTNtl7rETNoUCPnTv1msYR41jw4s9UuoIEZAF6yvLiPZlJvgJ66lvP8dLG0tXmPyMWdbFLPxFb3Xhgw7Gf6sDw=="/>
     </item>
   </channel>
 </rss>
