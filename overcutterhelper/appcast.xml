@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.9</title>
+      <sparkle:version>2.9.9</sparkle:version>
+      <description>The clips used are hidden in the new bin again. Trying a fix so Match Frame works with only the new bin open.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.9.pobupd" length="260619" type="application/octet-stream" encrypted="1" sparkle:edSignature="/DyAreE0Ey2lUvLLfJxkAcI1fmaQ+aHhtM7nDWxTBsjzNSk6eznMe6+jSaXoT1WcdNTE36JU3AMkGmxnuYqxAg=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.8</title>
       <sparkle:version>2.9.8</sparkle:version>
       <description>Markers on the new timelines for everything worth a look (left as tap, matched by picture, unusual slip, kept sync offset). The clips used are now shown in the new bin so Match Frame can find them.</description>
