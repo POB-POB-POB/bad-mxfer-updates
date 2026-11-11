@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.4</title>
+      <sparkle:version>0.3.4</sparkle:version>
+      <description>Updates can now bring newer helper tools (ffmpeg, MXF writer) in parts.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.4.bmxupd" length="786264" type="application/octet-stream" sparkle:edSignature="0YoDrJfEFlgnck/3mKHNwRh+QT+L8hFKxOJwpDP9vVc7c44/Q0ESk7jNfBrDNaO0hc9G1lTLhzM3K856aaQ+CA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.3</title>
       <sparkle:version>0.3.3</sparkle:version>
       <description>Opening animation: the logo sits to the right and is bigger, as in Bad MxFer POB.</description>

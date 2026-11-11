@@ -3,6 +3,13 @@
   <channel>
     <title>Bin Snooper</title>
     <item>
+      <title>Bin Snooper 1.7.4</title>
+      <sparkle:version>1.7.4</sparkle:version>
+      <description>Updates can now bring newer helper tools (Python, ffmpeg). Logs go to apps@drpob.com.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.4.pobupd" length="197116" type="application/octet-stream" encrypted="1" sparkle:edSignature="OB0ao5I0/AI2lIb3bayo1ZB/SHWTvDOZGY7+IxFfXZJIRd8lBsdNuitNDyPhhiE1p0o9kDgt1w8pOh5ZydQcDA=="/>
+    </item>
+    <item>
       <title>Bin Snooper 1.7.3</title>
       <sparkle:version>1.7.3</sparkle:version>
       <description>Opening animation: the name sits to the right.</description>
