@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.14</title>
+      <sparkle:version>2.9.14</sparkle:version>
+      <description>New: a &#x27;Check my setup&#x27; button (in the ⚙ panel) that checks ffmpeg, the bin reader and your saved folders. If a drive comes back as FAL_PRJ-1, the folder choosers still open in the right place and the check says why. After each update you&#x27;ll see a short note like this one.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.14.pobupd" length="267186" type="application/octet-stream" encrypted="1" sparkle:edSignature="TbmNPoxEWnigqOS4erWTQJimmFBlBLvvVbtJVtT/N/UynHSe/2LqyKwy0PvNrgB1RavvJ3HTMTJhFOZ2ew/HAg=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.13</title>
       <sparkle:version>2.9.13</sparkle:version>
       <description>Updates can now bring newer helper tools (Python, ffmpeg). Logs go to apps@drpob.com. Full zip needed once (2.9.13) for tool updates to take effect.</description>
@@ -64,13 +71,6 @@
       <description>Fixes &quot;something went wrong&quot; when writing the new bin for a cut with an AudioSuite effect on it.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.5.pobupd" length="258944" type="application/octet-stream" encrypted="1" sparkle:edSignature="7LO4SCYwPdIexZV6mYBV+j5n1XuX3Acy09shYa1ELrhswTiIKJ7qWp9lcz2joF0lAQQgooXUYZlkeW70sOBgBQ=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.4</title>
-      <sparkle:version>2.9.4</sparkle:version>
-      <description>Test update for the new updater (same as 2.9.3).</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.4.pobupd" length="258749" type="application/octet-stream" encrypted="1" sparkle:edSignature="AX9OekBcwUGc9ml5/rNRbIkbJTHAasKLVGochDnIpcbjhfxkHDuCL2WUFFEgMvexTpyPe7twJmDi/Z/5ODdhCg=="/>
     </item>
   </channel>
 </rss>

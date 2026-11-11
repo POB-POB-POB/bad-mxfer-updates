@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.5</title>
+      <sparkle:version>0.3.5</sparkle:version>
+      <description>New: after each update you&#x27;ll see a short note like this one saying what changed. If a drive comes back as FAL_PRJ-1 after a dropped connection, Bad MxFer now says so plainly and how to fix it.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.5.bmxupd" length="786972" type="application/octet-stream" sparkle:edSignature="VnWBMZ/FBeyyPyXwOdiD0LdQ7PbGxVxpTRrcfCiROj+Lax4edYaH+AeAgfhOYVmYfb1IOUAkA3ltspMbcIJtBg=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.4</title>
       <sparkle:version>0.3.4</sparkle:version>
       <description>Updates can now bring newer helper tools (ffmpeg, MXF writer) in parts.</description>

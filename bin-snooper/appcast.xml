@@ -3,6 +3,13 @@
   <channel>
     <title>Bin Snooper</title>
     <item>
+      <title>Bin Snooper 1.7.5</title>
+      <sparkle:version>1.7.5</sparkle:version>
+      <description>New: a &#x27;Check my setup&#x27; button in Settings that ticks off the licence, macOS, internet, disk space and your watched projects, and says how to fix anything missing. It opens by itself the first time. After each update you&#x27;ll see a short note like this one. If a drive comes back as FAL_PRJ-1, Bin Snooper now says so plainly.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.5.pobupd" length="200569" type="application/octet-stream" encrypted="1" sparkle:edSignature="T/3mohnv355aQexEcbnuSwyjXKq2ny8txEutPm+0Mtq0uJYoc5N+p/dgXUiyP+GUpNUxkHQcIhQPszbxcUJ8Bg=="/>
+    </item>
+    <item>
       <title>Bin Snooper 1.7.4</title>
       <sparkle:version>1.7.4</sparkle:version>
       <description>Updates can now bring newer helper tools (Python, ffmpeg). Logs go to apps@drpob.com.</description>
