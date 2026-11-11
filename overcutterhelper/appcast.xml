@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.16</title>
+      <sparkle:version>2.9.16</sparkle:version>
+      <description>The opening wallet shows the name on two lines, a bit bigger.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.16.pobupd" length="269078" type="application/octet-stream" encrypted="1" sparkle:edSignature="hYhnYzHCSFxBG5pX9MgIY59kSc7gIb08eAFYMtd622+pi3G88MF4IefB7R3QTof7fOJZhxJly1/jQ5Gz1A78AQ=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.15</title>
       <sparkle:version>2.9.15</sparkle:version>
       <description>New: your last few cut bins and scene bins appear as one-click buttons on the cards. After an overcut or two, it says roughly how long this one will take, from how long they take on this Mac. Notifications and a Dock progress badge come with the 2.9.15 zip from the drive.</description>
@@ -64,13 +71,6 @@
       <description>Shows a spinner while it reads the bins you chose. Stop button while an overcut runs.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.7.pobupd" length="259499" type="application/octet-stream" encrypted="1" sparkle:edSignature="KLFFMWB6DdjEif3bOl2UJx5ZCiayaZ0ls58Qs5LXyJYcIjcmI/hThq09ycApe32rkNDWIq13Mb1xybMl4oeCAA=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.6</title>
-      <sparkle:version>2.9.6</sparkle:version>
-      <description>Adds a Stop button while an overcut is running.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.6.pobupd" length="259299" type="application/octet-stream" encrypted="1" sparkle:edSignature="pin32D2/R5X7a9+g8KC1keLh5m7AoVaiXSGTPR41nkZZrZvJK5BZ7coNXepVaV2IFo2zbRWJOUj+q4dXaSEeCQ=="/>
     </item>
   </channel>
 </rss>
