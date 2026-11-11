@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.14</title>
+      <sparkle:version>0.3.14</sparkle:version>
+      <description>Fix: Bad MxFer kept in the Dock now opens when you click it (the Dock was keeping the window&#x27;s own little app, which did nothing when opened on its own). After updating, quit Bad MxFer&#x27;s window once and open it again.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.14.bmxupd" length="796689" type="application/octet-stream" sparkle:edSignature="3vC/hzM/597ScrwfWE3zEBorlI8g+19iYnyDA2F76awL//AdvoxZ2GrhQjFimMp4XhpObwThoKAGHn6VsnxaCA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.13</title>
       <sparkle:version>0.3.13</sparkle:version>
       <description>A sound when an import finishes (Settings: switch it off), a little flourish (the wallet closes with a stitched tick), stitched progress bars, progress on the Dock icon, and a running tally in Settings: imports, tracks and roughly how much time it&#x27;s saved.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.4</sparkle:version>
       <description>Updates can now bring newer helper tools (ffmpeg, MXF writer) in parts.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.4.bmxupd" length="786264" type="application/octet-stream" sparkle:edSignature="0YoDrJfEFlgnck/3mKHNwRh+QT+L8hFKxOJwpDP9vVc7c44/Q0ESk7jNfBrDNaO0hc9G1lTLhzM3K856aaQ+CA=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.3</title>
-      <sparkle:version>0.3.3</sparkle:version>
-      <description>Opening animation: the logo sits to the right and is bigger, as in Bad MxFer POB.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.3.bmxupd" length="786185" type="application/octet-stream" sparkle:edSignature="juLhXzRvVp0hMu6SCQOYMVYyGl/USezbRcsXs3SbvxEeZy8Z6kLyX4IDcOCG5XwY26c897jfwO9hFmc7tdNAAw=="/>
     </item>
   </channel>
 </rss>
