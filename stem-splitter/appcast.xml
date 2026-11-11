@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.0.14</title>
+      <sparkle:version>2.0.14</sparkle:version>
+      <description>Media Composer&#x27;s &#x27;mixed audio sample rates&#x27; warning during an export is now clicked through (Continue) by itself, every time it comes up.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.14.pobupd" length="370487" type="application/octet-stream" encrypted="1" sparkle:edSignature="0YqBeTDoXY8NvYsSsO3ZZ3OGwovCLeCzdx27g8sr3cmmfNecKizOsKBd9QqrUnj4SLLsVQxRKWsZRQaXmdTJAg=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.0.13</title>
       <sparkle:version>2.0.13</sparkle:version>
       <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>
@@ -64,13 +71,6 @@
       <description>Updates can now bring newer helper tools (Python, ffmpeg). Logs go to apps@drpob.com.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.5.pobupd" length="361540" type="application/octet-stream" encrypted="1" sparkle:edSignature="R2bgEs1mBulqvUlTs2HDI53vxGG4Wcv2IpMEHvsajic12Mv0ft+fzd72MVEinptZsQu9mmaPCqZIY6u+KtgpAg=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.4</title>
-      <sparkle:version>2.0.4</sparkle:version>
-      <description>Fixes a crash on sequences with an AudioSuite effect. Keeps the screen awake while Media Composer exports.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.4.pobupd" length="359070" type="application/octet-stream" encrypted="1" sparkle:edSignature="nZJb+OSwowIOj607uU/pmvyo6R9To7CzGgUDwuYaueRu0bBLNUq6SvoOq3lDVI8aePeYWbwRcCtaiNovZYQjDg=="/>
     </item>
   </channel>
 </rss>
