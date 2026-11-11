@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.5</title>
+      <sparkle:version>2.9.5</sparkle:version>
+      <description>Fixes &quot;something went wrong&quot; when writing the new bin for a cut with an AudioSuite effect on it.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.5.pobupd" length="258944" type="application/octet-stream" encrypted="1" sparkle:edSignature="7LO4SCYwPdIexZV6mYBV+j5n1XuX3Acy09shYa1ELrhswTiIKJ7qWp9lcz2joF0lAQQgooXUYZlkeW70sOBgBQ=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.4</title>
       <sparkle:version>2.9.4</sparkle:version>
       <description>Test update for the new updater (same as 2.9.3).</description>
