@@ -1,0 +1,29 @@
+{
+  "list": {
+    "product": "Bad MxFer",
+    "updated": "2026-11-10",
+    "revoked": [
+      {
+        "id": "8d89e5d053ae",
+        "when": "2026-11-10",
+        "why": ""
+      },
+      {
+        "id": "b97ce0c1e825",
+        "when": "2026-11-10",
+        "why": ""
+      },
+      {
+        "id": "feecffef94f5",
+        "when": "2026-11-10",
+        "why": ""
+      },
+      {
+        "id": "a3ca081e8a72",
+        "when": "2026-11-10",
+        "why": ""
+      }
+    ]
+  },
+  "signature": "/jYJ+3VGyO/8s/9SVMtDKlf3kWbYsT0nl05kiyw4t8Sb7NlsSujTAIVaAkA2eVFecrpo4umJ5fQJTo/5Cf+bCQ=="
+}
