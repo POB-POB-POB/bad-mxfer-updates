@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>OverCutterHelper</title>
+    <item>
+      <title>OverCutterHelper 2.9.4</title>
+      <sparkle:version>2.9.4</sparkle:version>
+      <description>Test update for the new updater (same as 2.9.3).</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.4.pobupd" length="258749" type="application/octet-stream" encrypted="1" sparkle:edSignature="AX9OekBcwUGc9ml5/rNRbIkbJTHAasKLVGochDnIpcbjhfxkHDuCL2WUFFEgMvexTpyPe7twJmDi/Z/5ODdhCg=="/>
+    </item>
+  </channel>
+</rss>
