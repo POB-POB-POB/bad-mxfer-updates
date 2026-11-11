@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.23</title>
+      <sparkle:version>2.9.23</sparkle:version>
+      <description>Dragging a licence file onto the window works again.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.23.pobupd" length="273290" type="application/octet-stream" encrypted="1" sparkle:edSignature="MsJLviXl24mo6lZ9ZGg8a7pLT/qacCn5Y8pa6fIXZI0QG8e2cRxIaMGTm80TrDGUMTfd4HpF5M0oGdw7Y0F+Ag=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.22</title>
       <sparkle:version>2.9.22</sparkle:version>
       <description>Settings (the ⚙ button) now fill the window, with tabs down the side so you see one thing at a time, and scroll bars you can see.</description>
@@ -64,13 +71,6 @@
       <description>New: a &#x27;Check my setup&#x27; button (in the ⚙ panel) that checks ffmpeg, the bin reader and your saved folders. If a drive comes back as FAL_PRJ-1, the folder choosers still open in the right place and the check says why. After each update you&#x27;ll see a short note like this one.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.14.pobupd" length="267186" type="application/octet-stream" encrypted="1" sparkle:edSignature="TbmNPoxEWnigqOS4erWTQJimmFBlBLvvVbtJVtT/N/UynHSe/2LqyKwy0PvNrgB1RavvJ3HTMTJhFOZ2ew/HAg=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.13</title>
-      <sparkle:version>2.9.13</sparkle:version>
-      <description>Updates can now bring newer helper tools (Python, ffmpeg). Logs go to apps@drpob.com. Full zip needed once (2.9.13) for tool updates to take effect.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.13.pobupd" length="263345" type="application/octet-stream" encrypted="1" sparkle:edSignature="RX+UKcyqkqjtikCRXUeNv4zrS6hZrm5LvjP4oIS7BDF7bXstXg90sEGUciF0Ce43sTsi0Mi1/fNQ/YuO9a1zCw=="/>
     </item>
   </channel>
 </rss>
