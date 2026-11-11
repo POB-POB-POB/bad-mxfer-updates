@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.0.3</title>
+      <sparkle:version>2.0.3</sparkle:version>
+      <description>Opening animation: the name sits to the right.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.3.pobupd" length="358794" type="application/octet-stream" encrypted="1" sparkle:edSignature="ylj0ujB/RgvNIzazeDHnB4oAvkNRqxNEL34FU+gmma9ysdC3xgS4ID1ZZ0WBr+TyePjR1dIEPB7UsH8xsJG5Aw=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.0.2</title>
       <sparkle:version>2.0.2</sparkle:version>
       <description>Export asks macOS for its permissions before it takes the mouse, and has a Stop button over Media Composer. All-apps licences. Send Logs works with Gmail.</description>
