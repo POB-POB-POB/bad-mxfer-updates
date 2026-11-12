@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.21</title>
+      <sparkle:version>0.3.21</sparkle:version>
+      <description>Copy this Mac&#x27;s ID is now on the Health check&#x27;s licence row and the main window&#x27;s licence card, next to Add licence.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.21.bmxupd" length="802715" type="application/octet-stream" sparkle:edSignature="uqHIhvyR23negOzWU597TK0x7TpI9CorVlT8iUDGoleFN/WOS5yeJxCAaM/fk1N4jJYXqy6fx3U3jbhY4GfKDA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.20</title>
       <sparkle:version>0.3.20</sparkle:version>
       <description>Spotify links now use the team&#x27;s own Spotify keys, so they stop failing on spotDL&#x27;s busy shared key (your own keys in Settings still win). A rate-limit now says so, with an Add Spotify keys button. Adding a licence from the Health check works and says so there, and file choosers come to the front. A new Mac no longer gets asked to install Apple&#x27;s developer tools.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.12</sparkle:version>
       <description>If the health check can&#x27;t run, it now says why (and the reason goes in the logs).</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.12.bmxupd" length="794253" type="application/octet-stream" sparkle:edSignature="pGbZRlrNV8y3VND2EiJlmSj0cTkOV8oWoJbojhNXLPEWTqGkefncpcw7Bh6K2WtK0V9oaaHtfUCLtrCAyJUbCg=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.11</title>
-      <sparkle:version>0.3.11</sparkle:version>
-      <description>The MXF media box now has its own arrow into the queue, and the arrows to and from Bins disappear when bins are switched off.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.11.bmxupd" length="794137" type="application/octet-stream" sparkle:edSignature="icUa6WJ+cExTHtXRSvqcID4Nm66FBHi9QVfnex99ecbEIWYzH43L3lJpERynwR59eDVo0WBEWdwUmXAx3tpVDw=="/>
     </item>
   </channel>
 </rss>
