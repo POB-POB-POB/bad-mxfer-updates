@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.20</title>
+      <sparkle:version>0.3.20</sparkle:version>
+      <description>Spotify links now use the team&#x27;s own Spotify keys, so they stop failing on spotDL&#x27;s busy shared key (your own keys in Settings still win). A rate-limit now says so, with an Add Spotify keys button. Adding a licence from the Health check works and says so there, and file choosers come to the front. A new Mac no longer gets asked to install Apple&#x27;s developer tools.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.20.bmxupd" length="802419" type="application/octet-stream" sparkle:edSignature="zIpPCisl5aZexbTZjS3T0/WAsCPNqQPQVNipKVN+N6AbrhyA5uNeeK9721kmttWZk6ICyBo6sWGQMFAIUXZvAQ=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.19</title>
       <sparkle:version>0.3.19</sparkle:version>
       <description>Send logs now sends the zip to Pete itself, attached, with a note of what happened - no email app needed. If it can&#x27;t, the email opens and Finder comes to the front with the zip ready to drag on.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.11</sparkle:version>
       <description>The MXF media box now has its own arrow into the queue, and the arrows to and from Bins disappear when bins are switched off.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.11.bmxupd" length="794137" type="application/octet-stream" sparkle:edSignature="icUa6WJ+cExTHtXRSvqcID4Nm66FBHi9QVfnex99ecbEIWYzH43L3lJpERynwR59eDVo0WBEWdwUmXAx3tpVDw=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.9</title>
-      <sparkle:version>0.3.9</sparkle:version>
-      <description>Clicking Bad MxFer in the Dock opens the window again, even after it was force-quit or closed by an update. The app also keeps a short note of each time it&#x27;s opened (in its logs), to help if it ever doesn&#x27;t.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.9.bmxupd" length="794032" type="application/octet-stream" sparkle:edSignature="j6ev4S2VBiLz3BDPzEA5BHEGISvibm+cVsWi1z36064IYbj0XTTbBzQjM8tvsSd+Oqk+zoGTwITdF35LLWHuCg=="/>
     </item>
   </channel>
 </rss>
