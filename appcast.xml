@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.22</title>
+      <sparkle:version>0.3.22</sparkle:version>
+      <description>Bin names are now cut to fit Avid&#x27;s 64-character limit, so long playlist or album names no longer make a bin Media Composer won&#x27;t open.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.22.bmxupd" length="802873" type="application/octet-stream" sparkle:edSignature="hpuhQ9Q1e1EW17+wx4HEzVXlY9gXjlcmIPozAmLyltV7TLL/OafC5WEz7ylfDzHHV80dvHUGgN4m1PdXylNDBQ=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.21</title>
       <sparkle:version>0.3.21</sparkle:version>
       <description>Copy this Mac&#x27;s ID is now on the Health check&#x27;s licence row and the main window&#x27;s licence card, next to Add licence.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.13</sparkle:version>
       <description>A sound when an import finishes (Settings: switch it off), a little flourish (the wallet closes with a stitched tick), stitched progress bars, progress on the Dock icon, and a running tally in Settings: imports, tracks and roughly how much time it&#x27;s saved.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.13.bmxupd" length="795852" type="application/octet-stream" sparkle:edSignature="8UeAWjvfqtsg91QTqlXHlpE4bag4TEHBp0iqWVZ0yrspFNoZ5Bpe1+U3J4jEjWVYTgdHeaf5sarw7ZFUZkJWBQ=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.12</title>
-      <sparkle:version>0.3.12</sparkle:version>
-      <description>If the health check can&#x27;t run, it now says why (and the reason goes in the logs).</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.12.bmxupd" length="794253" type="application/octet-stream" sparkle:edSignature="pGbZRlrNV8y3VND2EiJlmSj0cTkOV8oWoJbojhNXLPEWTqGkefncpcw7Bh6K2WtK0V9oaaHtfUCLtrCAyJUbCg=="/>
     </item>
   </channel>
 </rss>
