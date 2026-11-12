@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.26</title>
+      <sparkle:version>2.9.26</sparkle:version>
+      <description>The camera is now checked by picture (and the tap file&#x27;s own A/B letter), not just the tap&#x27;s name: a B-camera tap named as A gets B, and the report says so. A tap named with the wrong slate or take is matched by its sound and listed in the Summary. New Picture check button on the results: each take&#x27;s tap beside the high-res used.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.26.pobupd" length="280474" type="application/octet-stream" encrypted="1" sparkle:edSignature="f8GxahHU9YpjYv+7Gjda6qNy+xvbxNYfKCEyZy6O1l9MyGVsogdrFNdEgQhaDxBaOfe54otrfICWfR3oKhmkBw=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.25</title>
       <sparkle:version>2.9.25</sparkle:version>
       <description>Closing the window during an overcut now puts it in the menu bar (OCH and the percentage): click it to see the progress or stop it. It finishes in the background and tells you when the bin is ready.</description>
@@ -64,13 +71,6 @@
       <description>The opening wallet shows OVER / CUTTER / HELPER on three lines, bigger.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.17.pobupd" length="269102" type="application/octet-stream" encrypted="1" sparkle:edSignature="NGrSTL/RRsOmmHUk5NZ7wRECIyvKra8TxsoEkUPEAZ25lRAjefbLt7sZ4VojnvUxyOI2wjfCqye9tMQNK35ADQ=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.16</title>
-      <sparkle:version>2.9.16</sparkle:version>
-      <description>The opening wallet shows the name on two lines, a bit bigger.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.16.pobupd" length="269078" type="application/octet-stream" encrypted="1" sparkle:edSignature="hYhnYzHCSFxBG5pX9MgIY59kSc7gIb08eAFYMtd622+pi3G88MF4IefB7R3QTof7fOJZhxJly1/jQ5Gz1A78AQ=="/>
     </item>
   </channel>
 </rss>
