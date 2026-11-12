@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.0.20</title>
+      <sparkle:version>2.0.20</sparkle:version>
+      <description>Shares anonymous usage counts once a week (days used, how many times each job ran, how many failed and the kind of error). Never your name, licence, Mac, files or anything you work on. Turn it off in Something not right? &gt; Share anonymous usage counts.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.20.pobupd" length="377462" type="application/octet-stream" encrypted="1" sparkle:edSignature="s/RzlLQbisQg8j2sh6WYq4MfOHQN58RhqevUFdOPTsDwCKxC3qOC3FeYtErQ2RlkwHwZFmFz0N29q7IpfwEjDA=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.0.19</title>
       <sparkle:version>2.0.19</sparkle:version>
       <description>The spoiler name you type is now really written into the burn-in (it was keeping the name already there), and the burn-in shows the right timeline name.</description>
@@ -64,13 +71,6 @@
       <description>Fix: exports from bins with long names stopped with Media Composer&#x27;s &#x27;Bin name length must not exceed 64 characters&#x27;. The export bins (and the SPLITS bin) now get names Media Composer accepts, shortening the bin&#x27;s own name if needed. Also in 2.0.10: Split works with one press, and Open a Bin is sturdier.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.11.pobupd" length="369094" type="application/octet-stream" encrypted="1" sparkle:edSignature="0WwHepbpRXU+i8ukmZSF4RnezstG2Hzy6L/tt99m+f174696qF/vjUcyl2TlVSwSKKmIR3pEcvEHvpYx1zyDAQ=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.10</title>
-      <sparkle:version>2.0.10</sparkle:version>
-      <description>Split works with one press: a &#x27;Who is it for?&#x27; check pops up with each timeline&#x27;s Spoiler line, and its Split button goes ahead. The export now pastes the bin&#x27;s location into Media Composer&#x27;s Open a Bin window instead of typing it, and presses Open again if Media Composer missed it (it stopped with &#x27;Open a Bin window didn&#x27;t close&#x27;).</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.10.pobupd" length="368803" type="application/octet-stream" encrypted="1" sparkle:edSignature="/HEfH1+nD/lVXRogBYxoabf0/v67eQXwAwIPhT6Rv1f/b0QclSqSl5++9wsjxzyzPhQpN3xr141CasFXUlhLBQ=="/>
     </item>
   </channel>
 </rss>

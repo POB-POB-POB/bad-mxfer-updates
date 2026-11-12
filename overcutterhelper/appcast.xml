@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.27</title>
+      <sparkle:version>2.9.27</sparkle:version>
+      <description>Shares anonymous usage counts once a week (days used, how many times each job ran, how many failed and the kind of error). Never your name, licence, Mac, files or anything you work on. Turn it off in Something not right? &gt; Share anonymous usage counts.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.27.pobupd" length="281990" type="application/octet-stream" encrypted="1" sparkle:edSignature="ELQ+d4xdsCQ24z/vntTxBaW4Ji62uUp1cQ4pGbYPeBFeRxPQdy8s2czc6dUexdyvn0cuXUpbQHfp1964e2hAAw=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.26</title>
       <sparkle:version>2.9.26</sparkle:version>
       <description>The camera is now checked by picture (and the tap file&#x27;s own A/B letter), not just the tap&#x27;s name: a B-camera tap named as A gets B, and the report says so. A tap named with the wrong slate or take is matched by its sound and listed in the Summary. New Picture check button on the results: each take&#x27;s tap beside the high-res used.</description>
@@ -64,13 +71,6 @@
       <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.18.pobupd" length="270007" type="application/octet-stream" encrypted="1" sparkle:edSignature="BNnQ3Q0IsaSgICDMvH83j7e64bIbJ8GWvp/5t5ysVCWGOm9umGjmVZ+Ta00xB+FQJ1uKoQ9Y1jBnJwhrQut5BA=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.17</title>
-      <sparkle:version>2.9.17</sparkle:version>
-      <description>The opening wallet shows OVER / CUTTER / HELPER on three lines, bigger.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.17.pobupd" length="269102" type="application/octet-stream" encrypted="1" sparkle:edSignature="NGrSTL/RRsOmmHUk5NZ7wRECIyvKra8TxsoEkUPEAZ25lRAjefbLt7sZ4VojnvUxyOI2wjfCqye9tMQNK35ADQ=="/>
     </item>
   </channel>
 </rss>

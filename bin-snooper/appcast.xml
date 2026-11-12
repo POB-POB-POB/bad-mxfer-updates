@@ -3,6 +3,13 @@
   <channel>
     <title>Bin Snooper</title>
     <item>
+      <title>Bin Snooper 1.7.13</title>
+      <sparkle:version>1.7.13</sparkle:version>
+      <description>Shares anonymous usage counts once a week (days used, how many times each job ran, how many failed and the kind of error). Never your name, licence, Mac, files or anything you work on. Turn it off in Something not right? &gt; Share anonymous usage counts.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.13.pobupd" length="207153" type="application/octet-stream" encrypted="1" sparkle:edSignature="9TY0iJJkYhPZ5jVBibN5ox7QZvvj/Nxi7mVywJcLj1w+8U14R1XLSgdoYy7J5kSDfbWOP7Jp4kncjDorkKjLBg=="/>
+    </item>
+    <item>
       <title>Bin Snooper 1.7.12</title>
       <sparkle:version>1.7.12</sparkle:version>
       <description>Send logs now sends the zip to Pete itself, attached, with a note of what happened - no email app needed. If it can&#x27;t, the email opens and Finder comes to the front with the zip ready to drag on.</description>
@@ -64,13 +71,6 @@
       <description>Updates can now bring newer helper tools (Python, ffmpeg). Logs go to apps@drpob.com.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.4.pobupd" length="197116" type="application/octet-stream" encrypted="1" sparkle:edSignature="OB0ao5I0/AI2lIb3bayo1ZB/SHWTvDOZGY7+IxFfXZJIRd8lBsdNuitNDyPhhiE1p0o9kDgt1w8pOh5ZydQcDA=="/>
-    </item>
-    <item>
-      <title>Bin Snooper 1.7.3</title>
-      <sparkle:version>1.7.3</sparkle:version>
-      <description>Opening animation: the name sits to the right.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.3.pobupd" length="194657" type="application/octet-stream" encrypted="1" sparkle:edSignature="YezqlAFynxvjZGARrlH3Wyp7WLMhKr1ylQGzCx3q2y1OAF9CjYC7rMQZAjdsU+4jSRAy91+/k2IHVTJ33c2/Cw=="/>
     </item>
   </channel>
 </rss>
