@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.24</title>
+      <sparkle:version>0.3.24</sparkle:version>
+      <description>Stuck folder renames now say why and can be left numbered; updating no longer hangs; Open logs brings Finder forward; new Report a bug button sends your note and the logs to Pete.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.24.bmxupd" length="809005" type="application/octet-stream" sparkle:edSignature="q/Yjqxuarjiova91RyyoVrPD1WwUvGWqxdGWcWYUd6avDrbn69smnXme8bHvUKj3A5rxfJZTQMcZWB76XyUaAQ=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.23</title>
       <sparkle:version>0.3.23</sparkle:version>
       <description>Shares anonymous usage counts once a week (days used, imports, tracks, how many failed and the kind of error). Never your name, licence, Mac, links or files. Turn it off in Settings &gt; Share anonymous usage counts.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.15</sparkle:version>
       <description>New: drop a CSV (or a .txt) of YouTube or Spotify links on the window, or put it in the watch folder: it becomes one playlist bin named after the file, tracks in the list&#x27;s order. Audio or video follows the music/video switch in IN.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.15.bmxupd" length="797536" type="application/octet-stream" sparkle:edSignature="e0FnJrBYWY6jjWpyXU5d9Dh8kxmbR8jsKxSlkS3xLyyPZKm2CSL50KD4k2ZwfozApUtnQQ36Jus9nxXnLiQoCQ=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.14</title>
-      <sparkle:version>0.3.14</sparkle:version>
-      <description>Fix: Bad MxFer kept in the Dock now opens when you click it (the Dock was keeping the window&#x27;s own little app, which did nothing when opened on its own). After updating, quit Bad MxFer&#x27;s window once and open it again.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.14.bmxupd" length="796689" type="application/octet-stream" sparkle:edSignature="3vC/hzM/597ScrwfWE3zEBorlI8g+19iYnyDA2F76awL//AdvoxZ2GrhQjFimMp4XhpObwThoKAGHn6VsnxaCA=="/>
     </item>
   </channel>
 </rss>
