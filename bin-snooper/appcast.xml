@@ -3,6 +3,13 @@
   <channel>
     <title>Bin Snooper</title>
     <item>
+      <title>Bin Snooper 1.7.14</title>
+      <sparkle:version>1.7.14</sparkle:version>
+      <description>Who&#x27;s been in: a list at the bottom of everyone who&#x27;s had a bin open in your projects - pick someone to see which bins, when and for how long. New: &quot;This Mac is offline (air-gapped)&quot; under Something not right? - no update checks, usage counts or logs; licences come as a file made for this Mac.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.14.pobupd" length="212529" type="application/octet-stream" encrypted="1" sparkle:edSignature="ILyUU26V0QoBYXpi7YhA1/GT52nm2L//U78c0L3+1JpCETyk9NAoET75DCR5SKrCpvCPQN9+zl3FrDVnmtOxBQ=="/>
+    </item>
+    <item>
       <title>Bin Snooper 1.7.13</title>
       <sparkle:version>1.7.13</sparkle:version>
       <description>Shares anonymous usage counts once a week (days used, how many times each job ran, how many failed and the kind of error). Never your name, licence, Mac, files or anything you work on. Turn it off in Something not right? &gt; Share anonymous usage counts.</description>
@@ -64,13 +71,6 @@
       <description>New: a &#x27;Check my setup&#x27; button in Settings that ticks off the licence, macOS, internet, disk space and your watched projects, and says how to fix anything missing. It opens by itself the first time. After each update you&#x27;ll see a short note like this one. If a drive comes back as FAL_PRJ-1, Bin Snooper now says so plainly.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.5.pobupd" length="200569" type="application/octet-stream" encrypted="1" sparkle:edSignature="T/3mohnv355aQexEcbnuSwyjXKq2ny8txEutPm+0Mtq0uJYoc5N+p/dgXUiyP+GUpNUxkHQcIhQPszbxcUJ8Bg=="/>
-    </item>
-    <item>
-      <title>Bin Snooper 1.7.4</title>
-      <sparkle:version>1.7.4</sparkle:version>
-      <description>Updates can now bring newer helper tools (Python, ffmpeg). Logs go to apps@drpob.com.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.4.pobupd" length="197116" type="application/octet-stream" encrypted="1" sparkle:edSignature="OB0ao5I0/AI2lIb3bayo1ZB/SHWTvDOZGY7+IxFfXZJIRd8lBsdNuitNDyPhhiE1p0o9kDgt1w8pOh5ZydQcDA=="/>
     </item>
   </channel>
 </rss>

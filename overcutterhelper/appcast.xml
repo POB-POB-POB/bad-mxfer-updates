@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.28</title>
+      <sparkle:version>2.9.28</sparkle:version>
+      <description>New: &quot;This Mac is offline (air-gapped)&quot; under Something not right? - no update checks, usage counts or logs; licences come as a file made for this Mac.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.28.pobupd" length="285058" type="application/octet-stream" encrypted="1" sparkle:edSignature="sBYhuyuxyj1qZOog5sfvkFF4IX7w9/Eqk1tSowBAxfD4Ed18X1rNvg8YieRkiVZh1JfcLxwsOaZskN0P0ZIrCA=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.27</title>
       <sparkle:version>2.9.27</sparkle:version>
       <description>Shares anonymous usage counts once a week (days used, how many times each job ran, how many failed and the kind of error). Never your name, licence, Mac, files or anything you work on. Turn it off in Something not right? &gt; Share anonymous usage counts.</description>
@@ -64,13 +71,6 @@
       <description>A little flourish when an overcut finishes (the wallet closes with a stitched tick), a stitched progress bar, and a tally: each result says how many tap clips were swapped and roughly how much time that saved, with a running total in the ⚙ panel.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.19.pobupd" length="271519" type="application/octet-stream" encrypted="1" sparkle:edSignature="zbnRdd0HE4HHc6sZW0awdoPT9GC8eXHGL6/BmyzoMKLh7PCYJIxbWCoCdmCrqeYShmCtSJpF8KWJlUM+CXAZBA=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.18</title>
-      <sparkle:version>2.9.18</sparkle:version>
-      <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.18.pobupd" length="270007" type="application/octet-stream" encrypted="1" sparkle:edSignature="BNnQ3Q0IsaSgICDMvH83j7e64bIbJ8GWvp/5t5ysVCWGOm9umGjmVZ+Ta00xB+FQJ1uKoQ9Y1jBnJwhrQut5BA=="/>
     </item>
   </channel>
 </rss>

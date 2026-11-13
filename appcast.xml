@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.26</title>
+      <sparkle:version>0.3.26</sparkle:version>
+      <description>Updating now shows a download bar, so it never looks stuck. Clicking to choose files (or a folder) opens one chooser only. Links come in as sound only again unless you tick With picture; dropped or chosen videos still come in as picture and sound (tick Audio only under the drop box for just the sound). New in Settings: This Mac is offline (air-gapped) - no update checks, usage counts or bug reports.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.26.bmxupd" length="815904" type="application/octet-stream" sparkle:edSignature="6sEtYxeWr2HaxgQ0FPyi/xhmfeZY1Tt1fkOniqSDCTszL6VjLhDniVx3Rdq7nkgkfQRjwk3rTR3Ynq5zKRJdCA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.25</title>
       <sparkle:version>0.3.25</sparkle:version>
       <description>Click the drop box to choose files to import. Videos now come in as picture and sound; tick Audio only to bring in just the sound (Spotify is always sound only).</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.17</sparkle:version>
       <description>Lists of links download as they&#x27;re read: each link&#x27;s track starts downloading as soon as it&#x27;s found, while the next links are still being looked up (for lists you&#x27;ve chosen, like a CSV, when no size question is needed).</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.17.bmxupd" length="798859" type="application/octet-stream" sparkle:edSignature="k0VQ1CsM4uKffsSQ1ZtBPHDQsWibrD80XW+BqZR7l+i4Tm3jQYuTBN5TWxPpbSi+GsNMnUONUCx9fkLIBBhJAg=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.16</title>
-      <sparkle:version>0.3.16</sparkle:version>
-      <description>Faster lists of links: all the links are read at once instead of one after another (Spotify links in one go, others four at a time), and three tracks download at once instead of two.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.16.bmxupd" length="798199" type="application/octet-stream" sparkle:edSignature="DMZXcnaNf7/fwzyLbVCES9cHMhNV6YGSBBkEh+2coYnAKcseEZEK1yv2oN/cWOm2QUQzuVvoE1gKYl49ydHDDg=="/>
     </item>
   </channel>
 </rss>
