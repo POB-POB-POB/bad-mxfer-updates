@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.29</title>
+      <sparkle:version>2.9.29</sparkle:version>
+      <description>Better overcutting: understands slates logged for two scenes (e.g. 36AA+36AB), adds the scene bins a cut needs from the same folder automatically, and no longer crashes when the high-res bins have no effects in them.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.29.pobupd" length="286100" type="application/octet-stream" encrypted="1" sparkle:edSignature="avpvfosssZ3NttPz1Vbu1p/PLgKhz6cKckSAvjkaceR1DNEmm9CDwup531CxQOsjssB/QM2GfMBiKmsdqt0QAQ=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.28</title>
       <sparkle:version>2.9.28</sparkle:version>
       <description>New: &quot;This Mac is offline (air-gapped)&quot; under Something not right? - no update checks, usage counts or logs; licences come as a file made for this Mac.</description>
@@ -64,13 +71,6 @@
       <description>The timelines to overcut now have their own wide list under the cards: bigger rows, two or three columns, a box to find a timeline by name, Tick all / Untick all, and it scrolls smoothly (it no longer jumps while you scroll).</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.20.pobupd" length="272292" type="application/octet-stream" encrypted="1" sparkle:edSignature="N12iEptrusx7AoFsMzSno6PT2QP5bNN/tzBTbbQO7+S1UiyaCpP+S3qLC1zWx3G6JXQ26iRe+OWSrD2k6lZACQ=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.19</title>
-      <sparkle:version>2.9.19</sparkle:version>
-      <description>A little flourish when an overcut finishes (the wallet closes with a stitched tick), a stitched progress bar, and a tally: each result says how many tap clips were swapped and roughly how much time that saved, with a running total in the ⚙ panel.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.19.pobupd" length="271519" type="application/octet-stream" encrypted="1" sparkle:edSignature="zbnRdd0HE4HHc6sZW0awdoPT9GC8eXHGL6/BmyzoMKLh7PCYJIxbWCoCdmCrqeYShmCtSJpF8KWJlUM+CXAZBA=="/>
     </item>
   </channel>
 </rss>
