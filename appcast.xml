@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.25</title>
+      <sparkle:version>0.3.25</sparkle:version>
+      <description>Click the drop box to choose files to import. Videos now come in as picture and sound; tick Audio only to bring in just the sound (Spotify is always sound only).</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.25.bmxupd" length="814145" type="application/octet-stream" sparkle:edSignature="Tm0e4M3mS8ffm2Hb2w3hBiO5iDjIYX6UHb2ojJEexgBPzCngf/LmwvHRMTL2qoraPdRwNl5NBw0+9z+v2bFuAg=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.24</title>
       <sparkle:version>0.3.24</sparkle:version>
       <description>Stuck folder renames now say why and can be left numbered; updating no longer hangs; Open logs brings Finder forward; new Report a bug button sends your note and the logs to Pete.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.16</sparkle:version>
       <description>Faster lists of links: all the links are read at once instead of one after another (Spotify links in one go, others four at a time), and three tracks download at once instead of two.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.16.bmxupd" length="798199" type="application/octet-stream" sparkle:edSignature="DMZXcnaNf7/fwzyLbVCES9cHMhNV6YGSBBkEh+2coYnAKcseEZEK1yv2oN/cWOm2QUQzuVvoE1gKYl49ydHDDg=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.15</title>
-      <sparkle:version>0.3.15</sparkle:version>
-      <description>New: drop a CSV (or a .txt) of YouTube or Spotify links on the window, or put it in the watch folder: it becomes one playlist bin named after the file, tracks in the list&#x27;s order. Audio or video follows the music/video switch in IN.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.15.bmxupd" length="797536" type="application/octet-stream" sparkle:edSignature="e0FnJrBYWY6jjWpyXU5d9Dh8kxmbR8jsKxSlkS3xLyyPZKm2CSL50KD4k2ZwfozApUtnQQ36Jus9nxXnLiQoCQ=="/>
     </item>
   </channel>
 </rss>
