@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.1</title>
+      <sparkle:version>2.1.1</sparkle:version>
+      <description>Export queue (several jobs from several bins, carries on after a failure, sound/notification/email alerts); one shared settings card for many timelines; watch-folder add-on to send exports to another Mac; burn-in is blank unless you type a name, and the name at the top goes on every burn-in; exports only count as finished once Media Composer is free; refresh the bin; permissions checked one by one with a button to the right Settings pane.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.1.pobupd" length="395567" type="application/octet-stream" encrypted="1" sparkle:edSignature="zPkbDADHU0adKQ9HvRG3Wi97UR+5SNS0CmzZYAHLUQNbkw8hc78zxqcZknVKJeVEhKqZlRcxIJzgmyZMqWuBAw=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.0.21</title>
       <sparkle:version>2.0.21</sparkle:version>
       <description>New: &quot;This Mac is offline (air-gapped)&quot; under Something not right? - no update checks, usage counts or logs; licences come as a file made for this Mac.</description>
@@ -64,13 +71,6 @@
       <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.13.pobupd" length="370209" type="application/octet-stream" encrypted="1" sparkle:edSignature="XvKVn+23VGedf25Ow7YPq9iUfqlf4hzxKSTHwvf2c8taiX1zEkTFUba/fymT/SNaBKkjO6Fwquu4UBDC5fkQBQ=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.12</title>
-      <sparkle:version>2.0.12</sparkle:version>
-      <description>Fix: the &#x27;Who is it for?&#x27; check showed &#x27;(none set)&#x27; when the name came from the cut&#x27;s own burn-in; it now shows the same name as the Spoiler line, and a split never blanks the name in the burn-in. Also: export bin names fit Avid&#x27;s 64-character limit, and Split works with one press.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.12.pobupd" length="369272" type="application/octet-stream" encrypted="1" sparkle:edSignature="/8TN64KOCmBq1cO8G2NueUMo95vxs7SMM/doCjgUGpgCkPH7bGezpSAMWXevc4PDRA7rFFROOWSZaLRkDkEzBg=="/>
     </item>
   </channel>
 </rss>
