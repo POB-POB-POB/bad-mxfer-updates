@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.27</title>
+      <sparkle:version>0.3.27</sparkle:version>
+      <description>Video files keep their tape name and own start timecode, and off-rate files keep every frame; 23.976/29.97/59.94 projects no longer get motion adapters (and Resolve relinks); no more duplicate clip IDs when several imports run at once; bins for DNxHR (UHD) files.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.27.bmxupd" length="818679" type="application/octet-stream" sparkle:edSignature="JlM5xOQQPEdGCzfGqJ16S1EBH2fl5eo/1wM1irIIYGWfdX4bszd9MA4bPjfBjs2Wb3Kvf20Li5tT70RP2z4TCw=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.26</title>
       <sparkle:version>0.3.26</sparkle:version>
       <description>Updating now shows a download bar, so it never looks stuck. Clicking to choose files (or a folder) opens one chooser only. Links come in as sound only again unless you tick With picture; dropped or chosen videos still come in as picture and sound (tick Audio only under the drop box for just the sound). New in Settings: This Mac is offline (air-gapped) - no update checks, usage counts or bug reports.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.18</sparkle:version>
       <description>Settings now fill the window, with tabs down the side (Health check, Avid, Imports, Licence &amp; updates, About &amp; logs) so you see one group at a time. Scroll bars are clearer, including the queue&#x27;s.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.18.bmxupd" length="800010" type="application/octet-stream" sparkle:edSignature="FqzS04AvlBl3vVqlxHamYDvik/AWIOAtNCzflyLmzEOpu2PyZAipHbw3n4pKDKChBcttipcsTi4JRSrQQCWiDQ=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.17</title>
-      <sparkle:version>0.3.17</sparkle:version>
-      <description>Lists of links download as they&#x27;re read: each link&#x27;s track starts downloading as soon as it&#x27;s found, while the next links are still being looked up (for lists you&#x27;ve chosen, like a CSV, when no size question is needed).</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.17.bmxupd" length="798859" type="application/octet-stream" sparkle:edSignature="k0VQ1CsM4uKffsSQ1ZtBPHDQsWibrD80XW+BqZR7l+i4Tm3jQYuTBN5TWxPpbSi+GsNMnUONUCx9fkLIBBhJAg=="/>
     </item>
   </channel>
 </rss>

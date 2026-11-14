@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.30</title>
+      <sparkle:version>2.9.30</sparkle:version>
+      <description>Tap clips no longer need renaming (found by timecode, time of day and record order); a tap whose picture slips partway through a take is handled edit by edit; one bad clip no longer stops the whole overcut.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.30.pobupd" length="296652" type="application/octet-stream" encrypted="1" sparkle:edSignature="bytck2dCmOhv3EPzS+VhYe3mVk9PXee1kz6Gu5gFOS5kV89G2iH1SXYmMsBsFcZdwQSddKe/+yYYFWTmiznsDw=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.29</title>
       <sparkle:version>2.9.29</sparkle:version>
       <description>Better overcutting: understands slates logged for two scenes (e.g. 36AA+36AB), adds the scene bins a cut needs from the same folder automatically, and no longer crashes when the high-res bins have no effects in them.</description>
@@ -64,13 +71,6 @@
       <description>The timelines to overcut have their own wide list under the cards: bigger rows, wide enough for long timeline names, a box to find a timeline by name, Tick all / Untick all, and smooth scrolling.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.21.pobupd" length="272292" type="application/octet-stream" encrypted="1" sparkle:edSignature="LiGi5ZfDYsHKPhnnn4Pw5bSlTWJDHWUf7AHZf8Te+Yb+meiF9Ro47bqagd47Qm3gFzzmJNDFTTfx8m2ymGI+AA=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.20</title>
-      <sparkle:version>2.9.20</sparkle:version>
-      <description>The timelines to overcut now have their own wide list under the cards: bigger rows, two or three columns, a box to find a timeline by name, Tick all / Untick all, and it scrolls smoothly (it no longer jumps while you scroll).</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.20.pobupd" length="272292" type="application/octet-stream" encrypted="1" sparkle:edSignature="N12iEptrusx7AoFsMzSno6PT2QP5bNN/tzBTbbQO7+S1UiyaCpP+S3qLC1zWx3G6JXQ26iRe+OWSrD2k6lZACQ=="/>
     </item>
   </channel>
 </rss>
