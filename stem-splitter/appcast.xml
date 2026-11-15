@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.2</title>
+      <sparkle:version>2.1.2</sparkle:version>
+      <description>Media Composer&#x27;s error boxes (e.g. a frame-rate mismatch or Exception: SYS_ERROR) are noticed: OK is pressed for you and the export stops with a plain explanation instead of waiting forever; the setup list no longer says Media Composer control hasn&#x27;t been asked when it has; a newer update now replaces one that wouldn&#x27;t start.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.2.pobupd" length="397628" type="application/octet-stream" encrypted="1" sparkle:edSignature="t8fQ5XSo2F9uBEXhftCDqxP4w5LefT4DcYxG0SZgBDKLsFTUdOTq5NztuBl9Gxl/EJ2U9UlnOmt1NJ/lfjINBQ=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.1</title>
       <sparkle:version>2.1.1</sparkle:version>
       <description>Export queue (several jobs from several bins, carries on after a failure, sound/notification/email alerts); one shared settings card for many timelines; watch-folder add-on to send exports to another Mac; burn-in is blank unless you type a name, and the name at the top goes on every burn-in; exports only count as finished once Media Composer is free; refresh the bin; permissions checked one by one with a button to the right Settings pane.</description>
@@ -64,13 +71,6 @@
       <description>Media Composer&#x27;s &#x27;mixed audio sample rates&#x27; warning during an export is now clicked through (Continue) by itself, every time it comes up.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.14.pobupd" length="370487" type="application/octet-stream" encrypted="1" sparkle:edSignature="0YqBeTDoXY8NvYsSsO3ZZ3OGwovCLeCzdx27g8sr3cmmfNecKizOsKBd9QqrUnj4SLLsVQxRKWsZRQaXmdTJAg=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.13</title>
-      <sparkle:version>2.0.13</sparkle:version>
-      <description>Send logs is easier: pick Gmail, Outlook, the Mail app or just the zip. Gmail and Outlook open in your browser with the email filled in, so nothing needs setting up on the Mac. Your choice is remembered for the Send logs buttons on error messages.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.13.pobupd" length="370209" type="application/octet-stream" encrypted="1" sparkle:edSignature="XvKVn+23VGedf25Ow7YPq9iUfqlf4hzxKSTHwvf2c8taiX1zEkTFUba/fymT/SNaBKkjO6Fwquu4UBDC5fkQBQ=="/>
     </item>
   </channel>
 </rss>
