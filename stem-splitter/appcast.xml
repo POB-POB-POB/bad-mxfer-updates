@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.3</title>
+      <sparkle:version>2.1.3</sparkle:version>
+      <description>After a failed export: Check the media (finds damaged or offline media and render files, Show in Finder, a marked copy of the timeline) and Find the bad clip (test exports narrow it down to one clip). Media Composer&#x27;s error boxes are read. Export again tidies Media Composer&#x27;s leftover .Exported copies. Export fixes for bins shown as &#x27;* name&#x27; and exact names.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.3.pobupd" length="413725" type="application/octet-stream" encrypted="1" sparkle:edSignature="6e24qYDdOhVv7zevtQeuYKapvgsG5WLU2wvbGQ8u1xaYQ0ihKnr3IirUW1E3rdFPwMsQY9+wYi+myrqwS0rDAA=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.2</title>
       <sparkle:version>2.1.2</sparkle:version>
       <description>Media Composer&#x27;s error boxes (e.g. a frame-rate mismatch or Exception: SYS_ERROR) are noticed: OK is pressed for you and the export stops with a plain explanation instead of waiting forever; the setup list no longer says Media Composer control hasn&#x27;t been asked when it has; a newer update now replaces one that wouldn&#x27;t start.</description>
@@ -64,13 +71,6 @@
       <description>A little flourish when a split or export finishes (the wallet closes with a stitched tick), stitched progress bars, and a running tally in the ⚙ panel: timelines split, files exported, roughly how much time it&#x27;s saved.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.15.pobupd" length="371975" type="application/octet-stream" encrypted="1" sparkle:edSignature="TmBZPbQjFbKtsVFwsFSYy0j//QRLLdKLiow0GAsC69QZe41vp/Z4GTmzkLyx0UxyQnvLvorli3SKRc47qIBQDg=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.14</title>
-      <sparkle:version>2.0.14</sparkle:version>
-      <description>Media Composer&#x27;s &#x27;mixed audio sample rates&#x27; warning during an export is now clicked through (Continue) by itself, every time it comes up.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.14.pobupd" length="370487" type="application/octet-stream" encrypted="1" sparkle:edSignature="0YqBeTDoXY8NvYsSsO3ZZ3OGwovCLeCzdx27g8sr3cmmfNecKizOsKBd9QqrUnj4SLLsVQxRKWsZRQaXmdTJAg=="/>
     </item>
   </channel>
 </rss>

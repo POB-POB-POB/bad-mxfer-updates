@@ -3,6 +3,13 @@
   <channel>
     <title>OverCutterHelper</title>
     <item>
+      <title>OverCutterHelper 2.9.31</title>
+      <sparkle:version>2.9.31</sparkle:version>
+      <description>Updates: a newer version replaces one that&#x27;s installed but stuck, and a &#x27;Look for a newer one&#x27; button. Permission checks re-check themselves.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.31.pobupd" length="296992" type="application/octet-stream" encrypted="1" sparkle:edSignature="jQmRZpG3zH4H7o6MWaKvkkNjHt8QvY8aYTXYPq5eqIeKdQEnzFamKhWo/BPXyHQK0eJDW1G0wK+7k5e8dx3XBw=="/>
+    </item>
+    <item>
       <title>OverCutterHelper 2.9.30</title>
       <sparkle:version>2.9.30</sparkle:version>
       <description>Tap clips no longer need renaming (found by timecode, time of day and record order); a tap whose picture slips partway through a take is handled edit by edit; one bad clip no longer stops the whole overcut.</description>
@@ -64,13 +71,6 @@
       <description>Settings (the ⚙ button) now fill the window, with tabs down the side so you see one thing at a time, and scroll bars you can see.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.22.pobupd" length="273241" type="application/octet-stream" encrypted="1" sparkle:edSignature="DD0XB0nJrEzjjWTWS+24wcASYrRfbPnUzLaE97umzr6SZ5kadyJoBZpbHevzEzmQeQXQEbgZrrGkovX0I/RsCA=="/>
-    </item>
-    <item>
-      <title>OverCutterHelper 2.9.21</title>
-      <sparkle:version>2.9.21</sparkle:version>
-      <description>The timelines to overcut have their own wide list under the cards: bigger rows, wide enough for long timeline names, a box to find a timeline by name, Tick all / Untick all, and smooth scrolling.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/overcutterhelper/OverCutterHelper-2.9.21.pobupd" length="272292" type="application/octet-stream" encrypted="1" sparkle:edSignature="LiGi5ZfDYsHKPhnnn4Pw5bSlTWJDHWUf7AHZf8Te+Yb+meiF9Ro47bqagd47Qm3gFzzmJNDFTTfx8m2ymGI+AA=="/>
     </item>
   </channel>
 </rss>
