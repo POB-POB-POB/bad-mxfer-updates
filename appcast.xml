@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.28</title>
+      <sparkle:version>0.3.28</sparkle:version>
+      <description>Spotify links work on Macs without their own ffmpeg: spotDL now uses Bad MxFer&#x27;s bundled ffmpeg.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.28.bmxupd" length="818739" type="application/octet-stream" sparkle:edSignature="q7+lIK4dOlkJja5h1xWhDpiriDdZHb3DuyRCeQ+MDpgZ94qLuDy7Q0jcGjqok4EdgwXlECB/6PwxUJBXY2EXBw=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.27</title>
       <sparkle:version>0.3.27</sparkle:version>
       <description>Video files keep their tape name and own start timecode, and off-rate files keep every frame; 23.976/29.97/59.94 projects no longer get motion adapters (and Resolve relinks); no more duplicate clip IDs when several imports run at once; bins for DNxHR (UHD) files.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.19</sparkle:version>
       <description>Send logs now sends the zip to Pete itself, attached, with a note of what happened - no email app needed. If it can&#x27;t, the email opens and Finder comes to the front with the zip ready to drag on.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.19.bmxupd" length="801542" type="application/octet-stream" sparkle:edSignature="nXHASVRSAdZy+N94yFHn63RBMu0u9JlgdJ6cIT//VMNLuS9CST+tcgNL9+vGN9qmA86/orIigmbGW1+Ei33YCg=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.18</title>
-      <sparkle:version>0.3.18</sparkle:version>
-      <description>Settings now fill the window, with tabs down the side (Health check, Avid, Imports, Licence &amp; updates, About &amp; logs) so you see one group at a time. Scroll bars are clearer, including the queue&#x27;s.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.18.bmxupd" length="800010" type="application/octet-stream" sparkle:edSignature="FqzS04AvlBl3vVqlxHamYDvik/AWIOAtNCzflyLmzEOpu2PyZAipHbw3n4pKDKChBcttipcsTi4JRSrQQCWiDQ=="/>
     </item>
   </channel>
 </rss>
