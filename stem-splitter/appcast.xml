@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.54</title>
+      <sparkle:version>2.1.54</sparkle:version>
+      <description>Clearer turn-on for bought copies: start a 7-day free trial (nothing charged until it ends), then turn it on with your email.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.54.pobupd" length="1092821" type="application/octet-stream" encrypted="1" sparkle:edSignature="WiCqmmtOP/nwgN3JvIp9yHWYCBogJZUEmjsxzEuV7WgS6xhvBk4bwYyGBSs/uM11gINVcCc2aEA/QV3IcoJ+Dg=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.53</title>
       <sparkle:version>2.1.53</sparkle:version>
       <description>French Media Composer works. 23.976 and drop-frame timecode. Drag a bin onto the window. Two AAF choices with the sound embedded (no Media Composer needed). Permissions are asked for at the start, not mid-export. Check the media can be stopped. A banner while it hunts for a bad clip. Media Composer&#x27;s late &#x27;Dup&#x27; message is cleared once the files are checked full length. Stem Splitter&#x27;s own picture exports are for straight shots only (masks and burn-ins allowed) - anything else gets a pop-up. Many smaller fixes.</description>
@@ -64,13 +71,6 @@
       <description>Send logs now sends the zip to Pete itself, attached, with a note of what happened - no email app needed. If it can&#x27;t, the email opens and Finder comes to the front with the zip ready to drag on.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.17.pobupd" length="374451" type="application/octet-stream" encrypted="1" sparkle:edSignature="q5lDkgJ4aqg6Kf5OTyKGpS/ihDPlXcEUioRfkGhDkfG0WILiVSaCkFFVN6nPOovW1Xss+jXPoqrZ5wqRy3QiBA=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.16</title>
-      <sparkle:version>2.0.16</sparkle:version>
-      <description>Settings (the ⚙ button) now fill the window, with tabs down the side so you see one thing at a time, and scroll bars you can see.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.16.pobupd" length="372924" type="application/octet-stream" encrypted="1" sparkle:edSignature="bOYeLFekNOwtyJHrLJVArNBV6171J7B12Q9BVblgQ6IlRlcZjL+ee9e1Y5OBEPiSpmeAzPMj2fxIYZERFSJdCg=="/>
     </item>
   </channel>
 </rss>
