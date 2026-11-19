@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.31</title>
+      <sparkle:version>0.3.31</sparkle:version>
+      <description>Long UHD (DNxHR) imports over 2 GB: timelines with the clip save again (Media Composer&#x27;s &#x27;Range specified for Dup&#x27; message).</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.31.bmxupd" length="820084" type="application/octet-stream" sparkle:edSignature="TvbQuxSRIjI7u/ItTgkvhGZFdziq3gHZ2Sc7MyemtPKwJSYJD+b5TCNsiW7o4XIQSy12cDDOCKFTLJmi2YGmDA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.30</title>
       <sparkle:version>0.3.30</sparkle:version>
       <description>Delivering to the drives shows how much has been copied (GB of GB, speed, time left), so a big video copy doesn&#x27;t look stuck.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.22</sparkle:version>
       <description>Bin names are now cut to fit Avid&#x27;s 64-character limit, so long playlist or album names no longer make a bin Media Composer won&#x27;t open.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.22.bmxupd" length="802873" type="application/octet-stream" sparkle:edSignature="hpuhQ9Q1e1EW17+wx4HEzVXlY9gXjlcmIPozAmLyltV7TLL/OafC5WEz7ylfDzHHV80dvHUGgN4m1PdXylNDBQ=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.21</title>
-      <sparkle:version>0.3.21</sparkle:version>
-      <description>Copy this Mac&#x27;s ID is now on the Health check&#x27;s licence row and the main window&#x27;s licence card, next to Add licence.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.21.bmxupd" length="802715" type="application/octet-stream" sparkle:edSignature="uqHIhvyR23negOzWU597TK0x7TpI9CorVlT8iUDGoleFN/WOS5yeJxCAaM/fk1N4jJYXqy6fx3U3jbhY4GfKDA=="/>
     </item>
   </channel>
 </rss>
