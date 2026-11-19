@@ -3,6 +3,20 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.56</title>
+      <sparkle:version>2.1.56</sparkle:version>
+      <description>Turnover and Start queue check that Media Composer is open with a project before anything starts. The Accessibility button in Check my setup now fixes a switch left over from an earlier copy. The two-Mac watch folder is off in bought copies while it&#x27;s tested.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.56.pobupd" length="1094155" type="application/octet-stream" encrypted="1" sparkle:edSignature="HgI/enf/8QBPnoWqSbwOm+txMKVHvZ5aEPqt1QRYqEa00xUN6/DfVIp/ogxUpz1dVH8TZr7aIj5cO4WEvA4FBg=="/>
+    </item>
+    <item>
+      <title>Stem Splitter 2.1.55</title>
+      <sparkle:version>2.1.55</sparkle:version>
+      <description>The two-Mac watch folder is switched off in bought copies while it&#x27;s being tested.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.55.pobupd" length="1092988" type="application/octet-stream" encrypted="1" sparkle:edSignature="mUe2Zd9TW4T1UAHFl8ZUdveHyweJ+2tVDz8lnoRtLmYfzsBQgtj4QxZ5weqwYi0iUa6H/lVt7GQPwYKEZTUPAw=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.54</title>
       <sparkle:version>2.1.54</sparkle:version>
       <description>Clearer turn-on for bought copies: start a 7-day free trial (nothing charged until it ends), then turn it on with your email.</description>
@@ -57,20 +71,6 @@
       <description>The spoiler name you type is now really written into the burn-in (it was keeping the name already there), and the burn-in shows the right timeline name.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.19.pobupd" length="375952" type="application/octet-stream" encrypted="1" sparkle:edSignature="hrin72XgmS3HHyvf+0OZz9p90lpFSdx6YXDaSlspOhJI+9hpZONWFQTKAEiIIA9SWWMqy3cAZCZ4D+N7jn1MCA=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.18</title>
-      <sparkle:version>2.0.18</sparkle:version>
-      <description>On a new Mac, export settings Media Composer hasn&#x27;t got there are swapped for the nearest ones it has (or taken out), and you&#x27;re told which. The old ones are kept in case it guessed wrong.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.18.pobupd" length="375930" type="application/octet-stream" encrypted="1" sparkle:edSignature="7CenEget5zdxd50hEHueq3q7jyDthgmLv72KbCMiI+BZ2kiTBfEAE2L5rF9fUyxsBsm6KRtMHSVj8YnmVmLXDQ=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.17</title>
-      <sparkle:version>2.0.17</sparkle:version>
-      <description>Send logs now sends the zip to Pete itself, attached, with a note of what happened - no email app needed. If it can&#x27;t, the email opens and Finder comes to the front with the zip ready to drag on.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.17.pobupd" length="374451" type="application/octet-stream" encrypted="1" sparkle:edSignature="q5lDkgJ4aqg6Kf5OTyKGpS/ihDPlXcEUioRfkGhDkfG0WILiVSaCkFFVN6nPOovW1Xss+jXPoqrZ5wqRy3QiBA=="/>
     </item>
   </channel>
 </rss>
