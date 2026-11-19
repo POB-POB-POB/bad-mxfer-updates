@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.32</title>
+      <sparkle:version>0.3.32</sparkle:version>
+      <description>Clips show your Avid project&#x27;s name instead of &#x27;Bad MxFer&#x27;.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.32.bmxupd" length="820468" type="application/octet-stream" sparkle:edSignature="yUIVN2ZpmS5svFkMCKMqxgGLntiFG06K+Fn9avPlyV7PRawObI7ARudjSHnSnrmI0L5j2eVusMT/NLE9ZswrCQ=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.31</title>
       <sparkle:version>0.3.31</sparkle:version>
       <description>Long UHD (DNxHR) imports over 2 GB: timelines with the clip save again (Media Composer&#x27;s &#x27;Range specified for Dup&#x27; message).</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.23</sparkle:version>
       <description>Shares anonymous usage counts once a week (days used, imports, tracks, how many failed and the kind of error). Never your name, licence, Mac, links or files. Turn it off in Settings &gt; Share anonymous usage counts.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.23.bmxupd" length="805056" type="application/octet-stream" sparkle:edSignature="UI4cXQ9kTDWpePBiNFK6Ip6UjjuiVqkWC6E3xqm+hf3lgSeY61bHHQINtz3LRsN9Q4mxkyOkC3bSJA84eAWPAg=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.22</title>
-      <sparkle:version>0.3.22</sparkle:version>
-      <description>Bin names are now cut to fit Avid&#x27;s 64-character limit, so long playlist or album names no longer make a bin Media Composer won&#x27;t open.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.22.bmxupd" length="802873" type="application/octet-stream" sparkle:edSignature="hpuhQ9Q1e1EW17+wx4HEzVXlY9gXjlcmIPozAmLyltV7TLL/OafC5WEz7ylfDzHHV80dvHUGgN4m1PdXylNDBQ=="/>
     </item>
   </channel>
 </rss>
