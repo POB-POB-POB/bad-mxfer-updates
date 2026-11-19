@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.30</title>
+      <sparkle:version>0.3.30</sparkle:version>
+      <description>Delivering to the drives shows how much has been copied (GB of GB, speed, time left), so a big video copy doesn&#x27;t look stuck.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.30.bmxupd" length="819933" type="application/octet-stream" sparkle:edSignature="2gAdxmAJFSuGwroQyD3nz/pnRUHuTdb4Ea5lczgTKRn0z6EIRCqMk2M5YNl01H1CvBhwsWmUhaVLJwHrVMnRDw=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.29</title>
       <sparkle:version>0.3.29</sparkle:version>
       <description>Video imports over 2 GB (long UHD DNxHR files) no longer fail when the bin is made.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.21</sparkle:version>
       <description>Copy this Mac&#x27;s ID is now on the Health check&#x27;s licence row and the main window&#x27;s licence card, next to Add licence.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.21.bmxupd" length="802715" type="application/octet-stream" sparkle:edSignature="uqHIhvyR23negOzWU597TK0x7TpI9CorVlT8iUDGoleFN/WOS5yeJxCAaM/fk1N4jJYXqy6fx3U3jbhY4GfKDA=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.20</title>
-      <sparkle:version>0.3.20</sparkle:version>
-      <description>Spotify links now use the team&#x27;s own Spotify keys, so they stop failing on spotDL&#x27;s busy shared key (your own keys in Settings still win). A rate-limit now says so, with an Add Spotify keys button. Adding a licence from the Health check works and says so there, and file choosers come to the front. A new Mac no longer gets asked to install Apple&#x27;s developer tools.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.20.bmxupd" length="802419" type="application/octet-stream" sparkle:edSignature="zIpPCisl5aZexbTZjS3T0/WAsCPNqQPQVNipKVN+N6AbrhyA5uNeeK9721kmttWZk6ICyBo6sWGQMFAIUXZvAQ=="/>
     </item>
   </channel>
 </rss>
