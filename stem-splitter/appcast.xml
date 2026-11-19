@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.53</title>
+      <sparkle:version>2.1.53</sparkle:version>
+      <description>French Media Composer works. 23.976 and drop-frame timecode. Drag a bin onto the window. Two AAF choices with the sound embedded (no Media Composer needed). Permissions are asked for at the start, not mid-export. Check the media can be stopped. A banner while it hunts for a bad clip. Media Composer&#x27;s late &#x27;Dup&#x27; message is cleared once the files are checked full length. Stem Splitter&#x27;s own picture exports are for straight shots only (masks and burn-ins allowed) - anything else gets a pop-up. Many smaller fixes.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.53.pobupd" length="1092209" type="application/octet-stream" encrypted="1" sparkle:edSignature="qXSt8AlWy3f1CH7+06yyoErv0YE1RmF/Hoo22TPdS6WVlCicRYtCiIyCQ1s7iX9GP892ytJb2ccLbTZ8ylkuBw=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.3</title>
       <sparkle:version>2.1.3</sparkle:version>
       <description>After a failed export: Check the media (finds damaged or offline media and render files, Show in Finder, a marked copy of the timeline) and Find the bad clip (test exports narrow it down to one clip). Media Composer&#x27;s error boxes are read. Export again tidies Media Composer&#x27;s leftover .Exported copies. Export fixes for bins shown as &#x27;* name&#x27; and exact names.</description>
@@ -64,13 +71,6 @@
       <description>Settings (the ⚙ button) now fill the window, with tabs down the side so you see one thing at a time, and scroll bars you can see.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.16.pobupd" length="372924" type="application/octet-stream" encrypted="1" sparkle:edSignature="bOYeLFekNOwtyJHrLJVArNBV6171J7B12Q9BVblgQ6IlRlcZjL+ee9e1Y5OBEPiSpmeAzPMj2fxIYZERFSJdCg=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.15</title>
-      <sparkle:version>2.0.15</sparkle:version>
-      <description>A little flourish when a split or export finishes (the wallet closes with a stitched tick), stitched progress bars, and a running tally in the ⚙ panel: timelines split, files exported, roughly how much time it&#x27;s saved.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.15.pobupd" length="371975" type="application/octet-stream" encrypted="1" sparkle:edSignature="TmBZPbQjFbKtsVFwsFSYy0j//QRLLdKLiow0GAsC69QZe41vp/Z4GTmzkLyx0UxyQnvLvorli3SKRc47qIBQDg=="/>
     </item>
   </channel>
 </rss>
