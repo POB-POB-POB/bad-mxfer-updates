@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.35</title>
+      <sparkle:version>0.3.35</sparkle:version>
+      <description>Brings Media Composer to the front as soon as an import&#x27;s media is in, so Avid indexes it straight away (switch in Settings).</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.35.bmxupd" length="827146" type="application/octet-stream" sparkle:edSignature="so7RtoZ34cVXjErpVZEDqNO8Cip4iA5SbjGiJmGOc9u+tJ1ONovmM5EVQIKMx8iRePbPUorbIaZDBi8YtGJuCA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.34</title>
       <sparkle:version>0.3.34</sparkle:version>
       <description>The self test now passes: it checks local videos keep every frame (for conform) instead of expecting them converted to the project rate.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.26</sparkle:version>
       <description>Updating now shows a download bar, so it never looks stuck. Clicking to choose files (or a folder) opens one chooser only. Links come in as sound only again unless you tick With picture; dropped or chosen videos still come in as picture and sound (tick Audio only under the drop box for just the sound). New in Settings: This Mac is offline (air-gapped) - no update checks, usage counts or bug reports.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.26.bmxupd" length="815904" type="application/octet-stream" sparkle:edSignature="6sEtYxeWr2HaxgQ0FPyi/xhmfeZY1Tt1fkOniqSDCTszL6VjLhDniVx3Rdq7nkgkfQRjwk3rTR3Ynq5zKRJdCA=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.25</title>
-      <sparkle:version>0.3.25</sparkle:version>
-      <description>Click the drop box to choose files to import. Videos now come in as picture and sound; tick Audio only to bring in just the sound (Spotify is always sound only).</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.25.bmxupd" length="814145" type="application/octet-stream" sparkle:edSignature="Tm0e4M3mS8ffm2Hb2w3hBiO5iDjIYX6UHb2ojJEexgBPzCngf/LmwvHRMTL2qoraPdRwNl5NBw0+9z+v2bFuAg=="/>
     </item>
   </channel>
 </rss>
