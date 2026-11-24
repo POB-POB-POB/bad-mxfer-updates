@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.34</title>
+      <sparkle:version>0.3.34</sparkle:version>
+      <description>The self test now passes: it checks local videos keep every frame (for conform) instead of expecting them converted to the project rate.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.34.bmxupd" length="826676" type="application/octet-stream" sparkle:edSignature="3FKKb6E1j5uxRMsesYmCzlBnQNs+2kLgkfSk6OtaVDZjmNxAlW/HR5ObSB33qftx47Ly2MqTP8qmM7Nv1WSuDw=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.33</title>
       <sparkle:version>0.3.33</sparkle:version>
       <description>Shows the Avid project&#x27;s frame rate and frame size in Settings, and holds an import when the project&#x27;s frame rate doesn&#x27;t match Bad MxFer&#x27;s. Settings changes now always save, even if Bad MxFer restarted while the window was open.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.25</sparkle:version>
       <description>Click the drop box to choose files to import. Videos now come in as picture and sound; tick Audio only to bring in just the sound (Spotify is always sound only).</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.25.bmxupd" length="814145" type="application/octet-stream" sparkle:edSignature="Tm0e4M3mS8ffm2Hb2w3hBiO5iDjIYX6UHb2ojJEexgBPzCngf/LmwvHRMTL2qoraPdRwNl5NBw0+9z+v2bFuAg=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.24</title>
-      <sparkle:version>0.3.24</sparkle:version>
-      <description>Stuck folder renames now say why and can be left numbered; updating no longer hangs; Open logs brings Finder forward; new Report a bug button sends your note and the logs to Pete.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.24.bmxupd" length="809005" type="application/octet-stream" sparkle:edSignature="q/Yjqxuarjiova91RyyoVrPD1WwUvGWqxdGWcWYUd6avDrbn69smnXme8bHvUKj3A5rxfJZTQMcZWB76XyUaAQ=="/>
     </item>
   </channel>
 </rss>
