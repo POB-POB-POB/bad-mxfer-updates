@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.33</title>
+      <sparkle:version>0.3.33</sparkle:version>
+      <description>Shows the Avid project&#x27;s frame rate and frame size in Settings, and holds an import when the project&#x27;s frame rate doesn&#x27;t match Bad MxFer&#x27;s. Settings changes now always save, even if Bad MxFer restarted while the window was open.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.33.bmxupd" length="826332" type="application/octet-stream" sparkle:edSignature="CssdW5dAPRh8UOt9GDb196CN21/J3/84KQQL4onES4iw14IPfhAPe8+qQ/KuT3nm6kFCBGdxNCXhFr2VLzj4Cg=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.32</title>
       <sparkle:version>0.3.32</sparkle:version>
       <description>Clips show your Avid project&#x27;s name instead of &#x27;Bad MxFer&#x27;.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.24</sparkle:version>
       <description>Stuck folder renames now say why and can be left numbered; updating no longer hangs; Open logs brings Finder forward; new Report a bug button sends your note and the logs to Pete.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.24.bmxupd" length="809005" type="application/octet-stream" sparkle:edSignature="q/Yjqxuarjiova91RyyoVrPD1WwUvGWqxdGWcWYUd6avDrbn69smnXme8bHvUKj3A5rxfJZTQMcZWB76XyUaAQ=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.23</title>
-      <sparkle:version>0.3.23</sparkle:version>
-      <description>Shares anonymous usage counts once a week (days used, imports, tracks, how many failed and the kind of error). Never your name, licence, Mac, links or files. Turn it off in Settings &gt; Share anonymous usage counts.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.23.bmxupd" length="805056" type="application/octet-stream" sparkle:edSignature="UI4cXQ9kTDWpePBiNFK6Ip6UjjuiVqkWC6E3xqm+hf3lgSeY61bHHQINtz3LRsN9Q4mxkyOkC3bSJA84eAWPAg=="/>
     </item>
   </channel>
 </rss>
