@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.36</title>
+      <sparkle:version>0.3.36</sparkle:version>
+      <description>A step-by-step progress bar with a heartbeat, and a Stop button for the running import. Sign in to YouTube inside Bad MxFer, so downloads YouTube refuses try again as you. Retry on failed links; &#x27;just this track or the whole playlist?&#x27;; image sequences; and a choice for videos at another frame rate (every frame, own rate, or convert).</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.36.bmxupd" length="836942" type="application/octet-stream" sparkle:edSignature="lJO5sxsALPrwrSQNkaZuLzP4ltSyHslDjZp2c8sbRf6p/9OudwczQLHZ0739i7uuXpc/WybPrp1WNbxsIPCEBQ=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.35</title>
       <sparkle:version>0.3.35</sparkle:version>
       <description>Brings Media Composer to the front as soon as an import&#x27;s media is in, so Avid indexes it straight away (switch in Settings).</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.27</sparkle:version>
       <description>Video files keep their tape name and own start timecode, and off-rate files keep every frame; 23.976/29.97/59.94 projects no longer get motion adapters (and Resolve relinks); no more duplicate clip IDs when several imports run at once; bins for DNxHR (UHD) files.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.27.bmxupd" length="818679" type="application/octet-stream" sparkle:edSignature="JlM5xOQQPEdGCzfGqJ16S1EBH2fl5eo/1wM1irIIYGWfdX4bszd9MA4bPjfBjs2Wb3Kvf20Li5tT70RP2z4TCw=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.26</title>
-      <sparkle:version>0.3.26</sparkle:version>
-      <description>Updating now shows a download bar, so it never looks stuck. Clicking to choose files (or a folder) opens one chooser only. Links come in as sound only again unless you tick With picture; dropped or chosen videos still come in as picture and sound (tick Audio only under the drop box for just the sound). New in Settings: This Mac is offline (air-gapped) - no update checks, usage counts or bug reports.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.26.bmxupd" length="815904" type="application/octet-stream" sparkle:edSignature="6sEtYxeWr2HaxgQ0FPyi/xhmfeZY1Tt1fkOniqSDCTszL6VjLhDniVx3Rdq7nkgkfQRjwk3rTR3Ynq5zKRJdCA=="/>
     </item>
   </channel>
 </rss>
