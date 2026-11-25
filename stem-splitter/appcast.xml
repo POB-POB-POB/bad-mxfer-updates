@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.67</title>
+      <sparkle:version>2.1.67</sparkle:version>
+      <description>An × in the name and spoiler drop-downs takes one you don&#x27;t want any more off the list. Also from 2.1.65-2.1.66: spoiler lines remembered, drag a bin onto the window on Intel Macs, export settings fitted to the Mac again.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.67.pobupd" length="1403942" type="application/octet-stream" encrypted="1" sparkle:edSignature="XEMrmEF5nJot3VtbCgMYk8F+Kf3PYuuW1VAO7vIVxH+wPTjp1XJge1Zb1C8Mm7vkjbg9s5jg4oHYLg/oJROMAA=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.66</title>
       <sparkle:version>2.1.66</sparkle:version>
       <description>Spoiler lines are remembered: each spoiler box opens a list of the ones used before. Names are remembered as soon as they&#x27;re typed. Also from 2.1.65: drag a bin onto the window on Intel Macs, export settings fitted to the Mac again.</description>
@@ -64,13 +71,6 @@
       <description>Media Composer&#x27;s error boxes (e.g. a frame-rate mismatch or Exception: SYS_ERROR) are noticed: OK is pressed for you and the export stops with a plain explanation instead of waiting forever; the setup list no longer says Media Composer control hasn&#x27;t been asked when it has; a newer update now replaces one that wouldn&#x27;t start.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.2.pobupd" length="397628" type="application/octet-stream" encrypted="1" sparkle:edSignature="t8fQ5XSo2F9uBEXhftCDqxP4w5LefT4DcYxG0SZgBDKLsFTUdOTq5NztuBl9Gxl/EJ2U9UlnOmt1NJ/lfjINBQ=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.1.1</title>
-      <sparkle:version>2.1.1</sparkle:version>
-      <description>Export queue (several jobs from several bins, carries on after a failure, sound/notification/email alerts); one shared settings card for many timelines; watch-folder add-on to send exports to another Mac; burn-in is blank unless you type a name, and the name at the top goes on every burn-in; exports only count as finished once Media Composer is free; refresh the bin; permissions checked one by one with a button to the right Settings pane.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.1.pobupd" length="395567" type="application/octet-stream" encrypted="1" sparkle:edSignature="zPkbDADHU0adKQ9HvRG3Wi97UR+5SNS0CmzZYAHLUQNbkw8hc78zxqcZknVKJeVEhKqZlRcxIJzgmyZMqWuBAw=="/>
     </item>
   </channel>
 </rss>
