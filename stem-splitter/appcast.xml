@@ -3,6 +3,13 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.66</title>
+      <sparkle:version>2.1.66</sparkle:version>
+      <description>Spoiler lines are remembered: each spoiler box opens a list of the ones used before. Names are remembered as soon as they&#x27;re typed. Also from 2.1.65: drag a bin onto the window on Intel Macs, export settings fitted to the Mac again.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.66.pobupd" length="1403641" type="application/octet-stream" encrypted="1" sparkle:edSignature="UvcDaQ/n+H06wS7ob5/lwnNx684fJcVtG0cq6ETFK396aymZ9QdhB230JWv0t0bE+kNvEyLZA2bnY/HNqoz0DQ=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.65</title>
       <sparkle:version>2.1.65</sparkle:version>
       <description>Fixes: a bin dragged onto the window opens on Intel Macs too; export settings are fitted to this Mac again (2.1.64 stopped that once a plan had reports ticked).</description>
@@ -64,13 +71,6 @@
       <description>Export queue (several jobs from several bins, carries on after a failure, sound/notification/email alerts); one shared settings card for many timelines; watch-folder add-on to send exports to another Mac; burn-in is blank unless you type a name, and the name at the top goes on every burn-in; exports only count as finished once Media Composer is free; refresh the bin; permissions checked one by one with a button to the right Settings pane.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.1.pobupd" length="395567" type="application/octet-stream" encrypted="1" sparkle:edSignature="zPkbDADHU0adKQ9HvRG3Wi97UR+5SNS0CmzZYAHLUQNbkw8hc78zxqcZknVKJeVEhKqZlRcxIJzgmyZMqWuBAw=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.0.21</title>
-      <sparkle:version>2.0.21</sparkle:version>
-      <description>New: &quot;This Mac is offline (air-gapped)&quot; under Something not right? - no update checks, usage counts or logs; licences come as a file made for this Mac.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.0.21.pobupd" length="380573" type="application/octet-stream" encrypted="1" sparkle:edSignature="z3j8+7sAuC0kYGadzBtbnRCVfp0wO5ZePrHITsZA1kcS5tQDzmJ62DWKny0ywG1TEeFPWC86SdtsCt3Bkx/mDw=="/>
     </item>
   </channel>
 </rss>
