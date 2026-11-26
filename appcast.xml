@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.38</title>
+      <sparkle:version>0.3.38</sparkle:version>
+      <description>A whole playlist (Spotify or YouTube, a YouTube Mix, a channel or artist page) is never downloaded without asking: it waits for your OK. A YouTube search link means its top result only. In a CSV, a link that turns out to be a whole playlist is left out with a note. Pause and Stop work straight away while a list of links is being read. Job cards show the album / playlist / video name instead of the link.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.38.bmxupd" length="854944" type="application/octet-stream" sparkle:edSignature="6B2jhsqeUcu76QLxSKf2s6YAG6wVgf/whsOlGpWBJHwol4WxSGDTwQF1s2Grs7nIlKx6lcf3Vlr2oLMgNNU6CA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.37</title>
       <sparkle:version>0.3.37</sparkle:version>
       <description>Notifications now show Bad MxFer&#x27;s own icon, and clicking one opens the window. New Settings &gt; Importers: add your own importers (write or paste one in, or add a .py file), switch them on and off. Mixed folders, playlists and CSVs are numbered in list order (an album keeps its own track numbers). A CSV link to a track inside a playlist brings just that track.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.29</sparkle:version>
       <description>Video imports over 2 GB (long UHD DNxHR files) no longer fail when the bin is made.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.29.bmxupd" length="818958" type="application/octet-stream" sparkle:edSignature="HP2O38yK4dqix2fGJqH2olFdoB49VXlCwbRmz2NXeqSRa9AFwuFbSCivb3oAYRY/HiMRbpeKa6e+OgD+CnbeAQ=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.28</title>
-      <sparkle:version>0.3.28</sparkle:version>
-      <description>Spotify links work on Macs without their own ffmpeg: spotDL now uses Bad MxFer&#x27;s bundled ffmpeg.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.28.bmxupd" length="818739" type="application/octet-stream" sparkle:edSignature="q7+lIK4dOlkJja5h1xWhDpiriDdZHb3DuyRCeQ+MDpgZ94qLuDy7Q0jcGjqok4EdgwXlECB/6PwxUJBXY2EXBw=="/>
     </item>
   </channel>
 </rss>

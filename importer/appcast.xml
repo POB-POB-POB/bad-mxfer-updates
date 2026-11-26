@@ -2,5 +2,11 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Bad MxFer</title>
+    <item>
+      <title>Bad MxFer 0.3.38</title>
+      <sparkle:version>0.3.38</sparkle:version>
+      <description>A YouTube search link means its top result only; a whole playlist is never downloaded without asking (in a list of links it&#x27;s left out with a note). Pause and Stop work straight away while a list of links is being read. Job cards show the link&#x27;s name. Notifications show Bad MxFer&#x27;s own icon.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/importer/BadMxFer-Importer-0.3.38.bmxupd" length="835461" type="application/octet-stream" sparkle:edSignature="EDLOzvXme0YtfmzUZSReYcz2b89Pj+xCeuCKK1YQhl1mSVixPCZBSTU5qaNEMy/PBgIuGobmI5eV0/iV9DSEAA=="/>
+    </item>
   </channel>
 </rss>
