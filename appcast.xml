@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.37</title>
+      <sparkle:version>0.3.37</sparkle:version>
+      <description>Notifications now show Bad MxFer&#x27;s own icon, and clicking one opens the window. New Settings &gt; Importers: add your own importers (write or paste one in, or add a .py file), switch them on and off. Mixed folders, playlists and CSVs are numbered in list order (an album keeps its own track numbers). A CSV link to a track inside a playlist brings just that track.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.37.bmxupd" length="850412" type="application/octet-stream" sparkle:edSignature="gYCPUJXEHHq32F4VWoSEavRBwDTS8R7EDuQD/NTpfFMy+PbBfRL/WGuUO3VstJGqQZEUMe/Tj+g+nY+DrxaNCg=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.36</title>
       <sparkle:version>0.3.36</sparkle:version>
       <description>A step-by-step progress bar with a heartbeat, and a Stop button for the running import. Sign in to YouTube inside Bad MxFer, so downloads YouTube refuses try again as you. Retry on failed links; &#x27;just this track or the whole playlist?&#x27;; image sequences; and a choice for videos at another frame rate (every frame, own rate, or convert).</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.28</sparkle:version>
       <description>Spotify links work on Macs without their own ffmpeg: spotDL now uses Bad MxFer&#x27;s bundled ffmpeg.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.28.bmxupd" length="818739" type="application/octet-stream" sparkle:edSignature="q7+lIK4dOlkJja5h1xWhDpiriDdZHb3DuyRCeQ+MDpgZ94qLuDy7Q0jcGjqok4EdgwXlECB/6PwxUJBXY2EXBw=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.27</title>
-      <sparkle:version>0.3.27</sparkle:version>
-      <description>Video files keep their tape name and own start timecode, and off-rate files keep every frame; 23.976/29.97/59.94 projects no longer get motion adapters (and Resolve relinks); no more duplicate clip IDs when several imports run at once; bins for DNxHR (UHD) files.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.27.bmxupd" length="818679" type="application/octet-stream" sparkle:edSignature="JlM5xOQQPEdGCzfGqJ16S1EBH2fl5eo/1wM1irIIYGWfdX4bszd9MA4bPjfBjs2Wb3Kvf20Li5tT70RP2z4TCw=="/>
     </item>
   </channel>
 </rss>
