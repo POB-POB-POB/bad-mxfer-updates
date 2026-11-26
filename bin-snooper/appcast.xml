@@ -3,6 +3,13 @@
   <channel>
     <title>Bin Snooper</title>
     <item>
+      <title>Bin Snooper 1.7.22</title>
+      <sparkle:version>1.7.22</sparkle:version>
+      <description>Avid versions: see which Media Composer version saved each bin and who&#x27;s on what, with a warning when a bin is saved on a different version (Settings to switch it off or set the team&#x27;s version). Media folders: Avid MXF folders still on their default name, biggest or fullest first, checked once a day; asks macOS for access to the media drives. Refresh buttons, Hide on the versions banner, and a line at the bottom (switch off in Settings). History and settings save again when the working folder refuses.</description>
+      <minKit>2</minKit>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.22.pobupd" length="230665" type="application/octet-stream" encrypted="1" sparkle:edSignature="mnciJQyxW8K0sf65fkkwV/mjVl4K/EfaO0It/qsrSX/6cUME4YTHg38DIcolMbT40BJD17lXpqU2mLex4Yj/BQ=="/>
+    </item>
+    <item>
       <title>Bin Snooper 1.7.16</title>
       <sparkle:version>1.7.16</sparkle:version>
       <description>Opens again on Apple Silicon Macs (1.7.1 to 1.7.15 could stop at start-up with &#x27;method types do not match&#x27;); its log is written again (macOS had been refusing it since 10 Nov); a newer update now replaces one that wouldn&#x27;t start; includes 1.7.15&#x27;s gentler scanning of the NEXIS.</description>
@@ -64,13 +71,6 @@
       <description>The opening wallet&#x27;s name is bigger and sized to the window.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.8.pobupd" length="200938" type="application/octet-stream" encrypted="1" sparkle:edSignature="DRdkvCf4Cg4b4c52Db+X2DqyFsoIRARwlb87zc3KnYv/pE8jFJ8bB27swsx0aVXEgVekLRVddzpi/80Tvvm3DQ=="/>
-    </item>
-    <item>
-      <title>Bin Snooper 1.7.7</title>
-      <sparkle:version>1.7.7</sparkle:version>
-      <description>The opening wallet shows the name on two lines, a bit bigger.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/bin-snooper/BinSnooper-1.7.7.pobupd" length="200925" type="application/octet-stream" encrypted="1" sparkle:edSignature="X6/Knld2SE7i2kxg5QYAj3/q8TaUkIp3ohuhPNmNUll9a7ZU/sX03rpgnz8zPeyrz4EYQpEqO11qQVyxTvvBDA=="/>
     </item>
   </channel>
 </rss>
