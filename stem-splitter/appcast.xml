@@ -3,6 +3,14 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.71</title>
+      <sparkle:version>2.1.71</sparkle:version>
+      <description>Jobs on other Macs show the same step breakdown on your Mac. A failed job comes back to you to choose where to run it again (no automatic pass-on). The queue shows more or less as you drag it taller or shorter. Clear completed takes failed jobs off too. Boris FX subscriptions count as licensed. No flashing &#x27;still exporting&#x27; note.</description>
+      <minKit>2</minKit>
+      <tools version="1" url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/tools/StemSplitter-tools-1.pobtools.p1" length="42252719" encrypted="1" sparkle:edSignature="uvepXouyI4Z7e5xTTg6vJ1tB8b9/5da9JGJcJEFGCRLYgkFB41K+zk2X7VNsJFTcZYaxP6p7T836aH79574GBw=="/>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.71.pobupd" length="1409549" type="application/octet-stream" encrypted="1" sparkle:edSignature="D7o8XP4AOaQN/yGdjS3Ri2cV/axNw5mz47uv+0dSm2wGP1nAJULgN15JFTSxQ+OE9fZZrAkwAmuOTzpi8vKuBg=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.70</title>
       <sparkle:version>2.1.70</sparkle:version>
       <description>Dragging a bin onto the window works again. Exports on Macs without ffmpeg (the Intel Mac) get it with this update and keep it across later updates.</description>
@@ -65,13 +73,6 @@
       <description>The two-Mac watch folder is switched off in bought copies while it&#x27;s being tested.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.55.pobupd" length="1092988" type="application/octet-stream" encrypted="1" sparkle:edSignature="mUe2Zd9TW4T1UAHFl8ZUdveHyweJ+2tVDz8lnoRtLmYfzsBQgtj4QxZ5weqwYi0iUa6H/lVt7GQPwYKEZTUPAw=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.1.54</title>
-      <sparkle:version>2.1.54</sparkle:version>
-      <description>Clearer turn-on for bought copies: start a 7-day free trial (nothing charged until it ends), then turn it on with your email.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.54.pobupd" length="1092821" type="application/octet-stream" encrypted="1" sparkle:edSignature="WiCqmmtOP/nwgN3JvIp9yHWYCBogJZUEmjsxzEuV7WgS6xhvBk4bwYyGBSs/uM11gINVcCc2aEA/QV3IcoJ+Dg=="/>
     </item>
   </channel>
 </rss>
