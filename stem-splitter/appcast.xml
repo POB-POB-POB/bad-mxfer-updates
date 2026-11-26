@@ -3,6 +3,14 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.72</title>
+      <sparkle:version>2.1.72</sparkle:version>
+      <description>Each Mac in the shared queue is green, orange or red for this project&#x27;s plug-ins (Boris, RX and other audio plug-ins), Media Composer, permissions and ffmpeg - click it to see what it needs. Run again / Retry redo only the parts that failed. This Mac in the Send menu. Notifications with the app&#x27;s own icon. Media Composer is shown before each export (a hidden one stopped it). Old Macs can be taken off the list.</description>
+      <minKit>2</minKit>
+      <tools version="1" url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/tools/StemSplitter-tools-1.pobtools.p1" length="42252719" encrypted="1" sparkle:edSignature="uvepXouyI4Z7e5xTTg6vJ1tB8b9/5da9JGJcJEFGCRLYgkFB41K+zk2X7VNsJFTcZYaxP6p7T836aH79574GBw=="/>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.72.pobupd" length="1414729" type="application/octet-stream" encrypted="1" sparkle:edSignature="Ra3E/h14SlKKT4mEtubAP8G0xLVtt5/RSqjpP8gj50cdHGKuFb4uQTyQBlszQZYc3EEgn8ALpOYWPvhJlFRpCQ=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.71</title>
       <sparkle:version>2.1.71</sparkle:version>
       <description>Jobs on other Macs show the same step breakdown on your Mac. A failed job comes back to you to choose where to run it again (no automatic pass-on). The queue shows more or less as you drag it taller or shorter. Clear completed takes failed jobs off too. Boris FX subscriptions count as licensed. No flashing &#x27;still exporting&#x27; note.</description>
@@ -66,13 +74,6 @@
       <description>Turnover and Start queue check that Media Composer is open with a project before anything starts. The Accessibility button in Check my setup now fixes a switch left over from an earlier copy. The two-Mac watch folder is off in bought copies while it&#x27;s tested.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.56.pobupd" length="1094155" type="application/octet-stream" encrypted="1" sparkle:edSignature="HgI/enf/8QBPnoWqSbwOm+txMKVHvZ5aEPqt1QRYqEa00xUN6/DfVIp/ogxUpz1dVH8TZr7aIj5cO4WEvA4FBg=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.1.55</title>
-      <sparkle:version>2.1.55</sparkle:version>
-      <description>The two-Mac watch folder is switched off in bought copies while it&#x27;s being tested.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.55.pobupd" length="1092988" type="application/octet-stream" encrypted="1" sparkle:edSignature="mUe2Zd9TW4T1UAHFl8ZUdveHyweJ+2tVDz8lnoRtLmYfzsBQgtj4QxZ5weqwYi0iUa6H/lVt7GQPwYKEZTUPAw=="/>
     </item>
   </channel>
 </rss>
