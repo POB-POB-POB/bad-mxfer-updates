@@ -3,6 +3,14 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.70</title>
+      <sparkle:version>2.1.70</sparkle:version>
+      <description>Dragging a bin onto the window works again. Exports on Macs without ffmpeg (the Intel Mac) get it with this update and keep it across later updates.</description>
+      <minKit>2</minKit>
+      <tools version="1" url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/tools/StemSplitter-tools-1.pobtools.p1" length="42252719" encrypted="1" sparkle:edSignature="uvepXouyI4Z7e5xTTg6vJ1tB8b9/5da9JGJcJEFGCRLYgkFB41K+zk2X7VNsJFTcZYaxP6p7T836aH79574GBw=="/>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.70.pobupd" length="1407680" type="application/octet-stream" encrypted="1" sparkle:edSignature="qhEJ9LaPFThxin0bjTYB9HycR4EtXsUDwtsqRLS/WJte/5uYvTNwQ3C9kJtDXIC0zWEqTHSJBzq3YeABrZD9Bg=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.69</title>
       <sparkle:version>2.1.69</sparkle:version>
       <description>One Click Turnover (was Stem Splitter): the new name; Export on Other Macs (was Another Mac) comes with the app&#x27;s licence - no add-on; a licence works on one Mac only (licences handed out before 26 Nov carry on working).</description>
@@ -64,13 +72,6 @@
       <description>Clearer turn-on for bought copies: start a 7-day free trial (nothing charged until it ends), then turn it on with your email.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.54.pobupd" length="1092821" type="application/octet-stream" encrypted="1" sparkle:edSignature="WiCqmmtOP/nwgN3JvIp9yHWYCBogJZUEmjsxzEuV7WgS6xhvBk4bwYyGBSs/uM11gINVcCc2aEA/QV3IcoJ+Dg=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.1.53</title>
-      <sparkle:version>2.1.53</sparkle:version>
-      <description>French Media Composer works. 23.976 and drop-frame timecode. Drag a bin onto the window. Two AAF choices with the sound embedded (no Media Composer needed). Permissions are asked for at the start, not mid-export. Check the media can be stopped. A banner while it hunts for a bad clip. Media Composer&#x27;s late &#x27;Dup&#x27; message is cleared once the files are checked full length. Stem Splitter&#x27;s own picture exports are for straight shots only (masks and burn-ins allowed) - anything else gets a pop-up. Many smaller fixes.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.53.pobupd" length="1092209" type="application/octet-stream" encrypted="1" sparkle:edSignature="qXSt8AlWy3f1CH7+06yyoErv0YE1RmF/Hoo22TPdS6WVlCicRYtCiIyCQ1s7iX9GP892ytJb2ccLbTZ8ylkuBw=="/>
     </item>
   </channel>
 </rss>
