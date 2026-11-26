@@ -3,6 +3,14 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.73</title>
+      <sparkle:version>2.1.73</sparkle:version>
+      <description>A Mac&#x27;s light only turns red for what every export needs (real-time track effects like RX Voice De-noise, Media Composer, Accessibility, ffmpeg). Unrendered Boris is a warning on the job for that timeline, not on the Mac. A Mac on an older version shows orange until it&#x27;s updated.</description>
+      <minKit>2</minKit>
+      <tools version="1" url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/tools/StemSplitter-tools-1.pobtools.p1" length="42252719" encrypted="1" sparkle:edSignature="uvepXouyI4Z7e5xTTg6vJ1tB8b9/5da9JGJcJEFGCRLYgkFB41K+zk2X7VNsJFTcZYaxP6p7T836aH79574GBw=="/>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.73.pobupd" length="1414980" type="application/octet-stream" encrypted="1" sparkle:edSignature="Fifzlqxj0V51RaZ2x4Syf3X9CnW+V+K7wWHASoMZqb6QbIOGjoAnVjjU17E5lYiKVC9CJu5KFdwifUzV846bBA=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.72</title>
       <sparkle:version>2.1.72</sparkle:version>
       <description>Each Mac in the shared queue is green, orange or red for this project&#x27;s plug-ins (Boris, RX and other audio plug-ins), Media Composer, permissions and ffmpeg - click it to see what it needs. Run again / Retry redo only the parts that failed. This Mac in the Send menu. Notifications with the app&#x27;s own icon. Media Composer is shown before each export (a hidden one stopped it). Old Macs can be taken off the list.</description>
@@ -67,13 +75,6 @@
       <description>SS Reports in the turnover: tick Effects for the DI, ElevenLabs clips, Titles, Subtitles, Continuity or Music and each comes out as its own Excel file in a Reports folder. On _PIC in the SPLITS bin: an effect notes track for the DI (adjustment layers named), a scene numbers track and music markers. With Export off it says Split bin. Also the shared queue and Find the bad clip from 2.1.57-2.1.60.</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.64.pobupd" length="1403163" type="application/octet-stream" encrypted="1" sparkle:edSignature="ijvDhmuE1uvSLvU7pEfJid/ZZElzVcCRebhClRaoOyGli6+UT76P+XkdApU272PgAys6bDlpXbglGLCHgfoqCg=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.1.56</title>
-      <sparkle:version>2.1.56</sparkle:version>
-      <description>Turnover and Start queue check that Media Composer is open with a project before anything starts. The Accessibility button in Check my setup now fixes a switch left over from an earlier copy. The two-Mac watch folder is off in bought copies while it&#x27;s tested.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.56.pobupd" length="1094155" type="application/octet-stream" encrypted="1" sparkle:edSignature="HgI/enf/8QBPnoWqSbwOm+txMKVHvZ5aEPqt1QRYqEa00xUN6/DfVIp/ogxUpz1dVH8TZr7aIj5cO4WEvA4FBg=="/>
     </item>
   </channel>
 </rss>
