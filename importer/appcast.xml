@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.41</title>
+      <sparkle:version>0.3.41</sparkle:version>
+      <description>Importers you add show on the main window, each with an on/off switch and a settings button; their settings open under them in Settings &gt; Importers. An importer can declare its own settings (see the guide).</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/importer/BadMxFer-Importer-0.3.41.bmxupd" length="840436" type="application/octet-stream" sparkle:edSignature="9nfqrqM/FV0Bvf820xhfirHh75mN7F1MU6s6FMrtgpYyGs6bQm+P8jfSaKz7r4o3XWs9YY31po/iWHMrh5aMCw=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.38</title>
       <sparkle:version>0.3.38</sparkle:version>
       <description>A YouTube search link means its top result only; a whole playlist is never downloaded without asking (in a list of links it&#x27;s left out with a note). Pause and Stop work straight away while a list of links is being read. Job cards show the link&#x27;s name. Notifications show Bad MxFer&#x27;s own icon.</description>
