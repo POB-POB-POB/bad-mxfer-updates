@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.40</title>
+      <sparkle:version>0.3.40</sparkle:version>
+      <description>Every clip starts on its file&#x27;s own timecode: a Broadcast WAV&#x27;s time stamp (music editors&#x27; cues, sound files), as well as a video&#x27;s. Every importer has an on/off switch in Settings &gt; Importers, built-ins included.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.40.bmxupd" length="856054" type="application/octet-stream" sparkle:edSignature="mcdvjTHXR6z3z8R3C6+vKQ8ly17Z2ni5YXbzIAPlr0z0TLMkyHngyQE7kQ9GdoKn9Jny6pOkyWMdak6WoinqCA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.39</title>
       <sparkle:version>0.3.39</sparkle:version>
       <description>Every clip now starts on its file&#x27;s own timecode: a Broadcast WAV&#x27;s time stamp (music editors&#x27; cues, sound files), as well as a video&#x27;s. Every importer has an on/off switch in Settings &gt; Importers, built-ins included. New Content Hub importer (off until switched on): files shared with you on Netflix Content Hub, downloaded through your signed-in Chrome with the Bad MxFer helper.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.31</sparkle:version>
       <description>Long UHD (DNxHR) imports over 2 GB: timelines with the clip save again (Media Composer&#x27;s &#x27;Range specified for Dup&#x27; message).</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.31.bmxupd" length="820084" type="application/octet-stream" sparkle:edSignature="TvbQuxSRIjI7u/ItTgkvhGZFdziq3gHZ2Sc7MyemtPKwJSYJD+b5TCNsiW7o4XIQSy12cDDOCKFTLJmi2YGmDA=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.30</title>
-      <sparkle:version>0.3.30</sparkle:version>
-      <description>Delivering to the drives shows how much has been copied (GB of GB, speed, time left), so a big video copy doesn&#x27;t look stuck.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.30.bmxupd" length="819933" type="application/octet-stream" sparkle:edSignature="2gAdxmAJFSuGwroQyD3nz/pnRUHuTdb4Ea5lczgTKRn0z6EIRCqMk2M5YNl01H1CvBhwsWmUhaVLJwHrVMnRDw=="/>
     </item>
   </channel>
 </rss>
