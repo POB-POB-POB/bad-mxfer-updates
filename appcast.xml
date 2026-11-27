@@ -3,6 +3,12 @@
   <channel>
     <title>Bad MxFer</title>
     <item>
+      <title>Bad MxFer 0.3.39</title>
+      <sparkle:version>0.3.39</sparkle:version>
+      <description>Every clip now starts on its file&#x27;s own timecode: a Broadcast WAV&#x27;s time stamp (music editors&#x27; cues, sound files), as well as a video&#x27;s. Every importer has an on/off switch in Settings &gt; Importers, built-ins included. New Content Hub importer (off until switched on): files shared with you on Netflix Content Hub, downloaded through your signed-in Chrome with the Bad MxFer helper.</description>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.39.bmxupd" length="868971" type="application/octet-stream" sparkle:edSignature="0iHVrEeqMF3kzEj2xV9S4a2aXX5wobKphAh6cDM8NTxsZ5cWu/npkeXHNWPZTebw5iuHIuCcamizqcSHtf5QBA=="/>
+    </item>
+    <item>
       <title>Bad MxFer 0.3.38</title>
       <sparkle:version>0.3.38</sparkle:version>
       <description>A whole playlist (Spotify or YouTube, a YouTube Mix, a channel or artist page) is never downloaded without asking: it waits for your OK. A YouTube search link means its top result only. In a CSV, a link that turns out to be a whole playlist is left out with a note. Pause and Stop work straight away while a list of links is being read. Job cards show the album / playlist / video name instead of the link.</description>
@@ -55,12 +61,6 @@
       <sparkle:version>0.3.30</sparkle:version>
       <description>Delivering to the drives shows how much has been copied (GB of GB, speed, time left), so a big video copy doesn&#x27;t look stuck.</description>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.30.bmxupd" length="819933" type="application/octet-stream" sparkle:edSignature="2gAdxmAJFSuGwroQyD3nz/pnRUHuTdb4Ea5lczgTKRn0z6EIRCqMk2M5YNl01H1CvBhwsWmUhaVLJwHrVMnRDw=="/>
-    </item>
-    <item>
-      <title>Bad MxFer 0.3.29</title>
-      <sparkle:version>0.3.29</sparkle:version>
-      <description>Video imports over 2 GB (long UHD DNxHR files) no longer fail when the bin is made.</description>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/BadMxFer-0.3.29.bmxupd" length="818958" type="application/octet-stream" sparkle:edSignature="HP2O38yK4dqix2fGJqH2olFdoB49VXlCwbRmz2NXeqSRa9AFwuFbSCivb3oAYRY/HiMRbpeKa6e+OgD+CnbeAQ=="/>
     </item>
   </channel>
 </rss>
