@@ -3,6 +3,14 @@
   <channel>
     <title>Stem Splitter</title>
     <item>
+      <title>Stem Splitter 2.1.76</title>
+      <sparkle:version>2.1.76</sparkle:version>
+      <description>The Pause and Stop buttons under the red banner are easy to read. When Media Composer&#x27;s error box can&#x27;t be read, the job shows its words from Media Composer&#x27;s own log. A Mac picked in a queue row&#x27;s menu stays picked. A job that failed in the cut can be sent to another Mac. A red Mac doesn&#x27;t take shared jobs. A leftover Open a Bin box is cancelled on export Macs. Find the bad clip tries a test again if a box got in the way. Bundled helper tools are recognised (no extra download).</description>
+      <minKit>2</minKit>
+      <tools version="1" url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/tools/StemSplitter-tools-1.pobtools.p1" length="42252719" encrypted="1" sparkle:edSignature="uvepXouyI4Z7e5xTTg6vJ1tB8b9/5da9JGJcJEFGCRLYgkFB41K+zk2X7VNsJFTcZYaxP6p7T836aH79574GBw=="/>
+      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.76.pobupd" length="1418202" type="application/octet-stream" encrypted="1" sparkle:edSignature="fEuEQ7xYZSzLuUubKyFvZuWyUDlkooN1I+mSq/2xrh2Qn7RPXhH19wdPae8wShsmXiiycrTpsWVBnIoRWI30AQ=="/>
+    </item>
+    <item>
       <title>Stem Splitter 2.1.73</title>
       <sparkle:version>2.1.73</sparkle:version>
       <description>A Mac&#x27;s light only turns red for what every export needs (real-time track effects like RX Voice De-noise, Media Composer, Accessibility, ffmpeg). Unrendered Boris is a warning on the job for that timeline, not on the Mac. A Mac on an older version shows orange until it&#x27;s updated.</description>
@@ -68,13 +76,6 @@
       <description>Fixes: a bin dragged onto the window opens on Intel Macs too; export settings are fitted to this Mac again (2.1.64 stopped that once a plan had reports ticked).</description>
       <minKit>2</minKit>
       <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.65.pobupd" length="1403388" type="application/octet-stream" encrypted="1" sparkle:edSignature="wR/z0ABxrxZUDwcG4yf1dPylNmT4qwWjUUyifZdJdAUKiolCBOxy6iaB27WkBKm8BE8VO579SZ6vyoU85I/4CA=="/>
-    </item>
-    <item>
-      <title>Stem Splitter 2.1.64</title>
-      <sparkle:version>2.1.64</sparkle:version>
-      <description>SS Reports in the turnover: tick Effects for the DI, ElevenLabs clips, Titles, Subtitles, Continuity or Music and each comes out as its own Excel file in a Reports folder. On _PIC in the SPLITS bin: an effect notes track for the DI (adjustment layers named), a scene numbers track and music markers. With Export off it says Split bin. Also the shared queue and Find the bad clip from 2.1.57-2.1.60.</description>
-      <minKit>2</minKit>
-      <enclosure url="https://raw.githubusercontent.com/POB-POB-POB/bad-mxfer-updates/main/stem-splitter/StemSplitter-2.1.64.pobupd" length="1403163" type="application/octet-stream" encrypted="1" sparkle:edSignature="ijvDhmuE1uvSLvU7pEfJid/ZZElzVcCRebhClRaoOyGli6+UT76P+XkdApU272PgAys6bDlpXbglGLCHgfoqCg=="/>
     </item>
   </channel>
 </rss>
